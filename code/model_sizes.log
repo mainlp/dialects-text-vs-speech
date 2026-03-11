@@ -1,0 +1,514 @@
+----------------
+openai/whisper-tiny
+
+Encoder-only version (WhisperForAudioClassification)
+Parameters in M 7.731458
+WhisperForAudioClassification(
+  (encoder): WhisperEncoder(
+    (conv1): Conv1d(80, 384, kernel_size=(3,), stride=(1,), padding=(1,))
+    (conv2): Conv1d(384, 384, kernel_size=(3,), stride=(2,), padding=(1,))
+    (embed_positions): Embedding(1500, 384)
+    (layers): ModuleList(
+      (0-3): 4 x WhisperEncoderLayer(
+        (self_attn): WhisperAttention(
+          (k_proj): Linear(in_features=384, out_features=384, bias=False)
+          (v_proj): Linear(in_features=384, out_features=384, bias=True)
+          (q_proj): Linear(in_features=384, out_features=384, bias=True)
+          (out_proj): Linear(in_features=384, out_features=384, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+        (activation_fn): GELUActivation()
+        (fc1): Linear(in_features=384, out_features=1536, bias=True)
+        (fc2): Linear(in_features=1536, out_features=384, bias=True)
+        (final_layer_norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+    (layer_norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+  )
+  (projector): Linear(in_features=384, out_features=256, bias=True)
+  (classifier): Linear(in_features=256, out_features=2, bias=True)
+)
+
+----------------
+openai/whisper-base
+
+Encoder-only version (WhisperForAudioClassification)
+Parameters in M 19.954434
+WhisperForAudioClassification(
+  (encoder): WhisperEncoder(
+    (conv1): Conv1d(80, 512, kernel_size=(3,), stride=(1,), padding=(1,))
+    (conv2): Conv1d(512, 512, kernel_size=(3,), stride=(2,), padding=(1,))
+    (embed_positions): Embedding(1500, 512)
+    (layers): ModuleList(
+      (0-5): 6 x WhisperEncoderLayer(
+        (self_attn): WhisperAttention(
+          (k_proj): Linear(in_features=512, out_features=512, bias=False)
+          (v_proj): Linear(in_features=512, out_features=512, bias=True)
+          (q_proj): Linear(in_features=512, out_features=512, bias=True)
+          (out_proj): Linear(in_features=512, out_features=512, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (activation_fn): GELUActivation()
+        (fc1): Linear(in_features=512, out_features=2048, bias=True)
+        (fc2): Linear(in_features=2048, out_features=512, bias=True)
+        (final_layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+    (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+  )
+  (projector): Linear(in_features=512, out_features=256, bias=True)
+  (classifier): Linear(in_features=256, out_features=2, bias=True)
+)
+
+----------------
+openai/whisper-small
+
+Encoder-only version (WhisperForAudioClassification)
+Parameters in M 87.19949
+WhisperForAudioClassification(
+  (encoder): WhisperEncoder(
+    (conv1): Conv1d(80, 768, kernel_size=(3,), stride=(1,), padding=(1,))
+    (conv2): Conv1d(768, 768, kernel_size=(3,), stride=(2,), padding=(1,))
+    (embed_positions): Embedding(1500, 768)
+    (layers): ModuleList(
+      (0-11): 12 x WhisperEncoderLayer(
+        (self_attn): WhisperAttention(
+          (k_proj): Linear(in_features=768, out_features=768, bias=False)
+          (v_proj): Linear(in_features=768, out_features=768, bias=True)
+          (q_proj): Linear(in_features=768, out_features=768, bias=True)
+          (out_proj): Linear(in_features=768, out_features=768, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+        (activation_fn): GELUActivation()
+        (fc1): Linear(in_features=768, out_features=3072, bias=True)
+        (fc2): Linear(in_features=3072, out_features=768, bias=True)
+        (final_layer_norm): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+    (layer_norm): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+  )
+  (projector): Linear(in_features=768, out_features=256, bias=True)
+  (classifier): Linear(in_features=256, out_features=2, bias=True)
+)
+
+----------------
+openai/whisper-medium
+
+Encoder-only version (WhisperForAudioClassification)
+Parameters in M 305.943298
+WhisperForAudioClassification(
+  (encoder): WhisperEncoder(
+    (conv1): Conv1d(80, 1024, kernel_size=(3,), stride=(1,), padding=(1,))
+    (conv2): Conv1d(1024, 1024, kernel_size=(3,), stride=(2,), padding=(1,))
+    (embed_positions): Embedding(1500, 1024)
+    (layers): ModuleList(
+      (0-23): 24 x WhisperEncoderLayer(
+        (self_attn): WhisperAttention(
+          (k_proj): Linear(in_features=1024, out_features=1024, bias=False)
+          (v_proj): Linear(in_features=1024, out_features=1024, bias=True)
+          (q_proj): Linear(in_features=1024, out_features=1024, bias=True)
+          (out_proj): Linear(in_features=1024, out_features=1024, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+        (activation_fn): GELUActivation()
+        (fc1): Linear(in_features=1024, out_features=4096, bias=True)
+        (fc2): Linear(in_features=4096, out_features=1024, bias=True)
+        (final_layer_norm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+    (layer_norm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+  )
+  (projector): Linear(in_features=1024, out_features=256, bias=True)
+  (classifier): Linear(in_features=256, out_features=2, bias=True)
+)
+
+----------------
+openai/whisper-large-v3
+
+Encoder-only version (WhisperForAudioClassification)
+Parameters in M 635.37741
+WhisperForAudioClassification(
+  (encoder): WhisperEncoder(
+    (conv1): Conv1d(128, 1280, kernel_size=(3,), stride=(1,), padding=(1,))
+    (conv2): Conv1d(1280, 1280, kernel_size=(3,), stride=(2,), padding=(1,))
+    (embed_positions): Embedding(1500, 1280)
+    (layers): ModuleList(
+      (0-31): 32 x WhisperEncoderLayer(
+        (self_attn): WhisperAttention(
+          (k_proj): Linear(in_features=1280, out_features=1280, bias=False)
+          (v_proj): Linear(in_features=1280, out_features=1280, bias=True)
+          (q_proj): Linear(in_features=1280, out_features=1280, bias=True)
+          (out_proj): Linear(in_features=1280, out_features=1280, bias=True)
+        )
+        (self_attn_layer_norm): LayerNorm((1280,), eps=1e-05, elementwise_affine=True)
+        (activation_fn): GELUActivation()
+        (fc1): Linear(in_features=1280, out_features=5120, bias=True)
+        (fc2): Linear(in_features=5120, out_features=1280, bias=True)
+        (final_layer_norm): LayerNorm((1280,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+    (layer_norm): LayerNorm((1280,), eps=1e-05, elementwise_affine=True)
+  )
+  (projector): Linear(in_features=1280, out_features=256, bias=True)
+  (classifier): Linear(in_features=256, out_features=2, bias=True)
+)
+
+----------------
+google-bert/bert-base-multilingual-cased
+
+Parameters in M 85.646592
+BertModel(
+  (embeddings): BertEmbeddings(
+    (word_embeddings): Embedding(119547, 768, padding_idx=0)
+    (position_embeddings): Embedding(512, 768)
+    (token_type_embeddings): Embedding(2, 768)
+    (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+    (dropout): Dropout(p=0.1, inplace=False)
+  )
+  (encoder): BertEncoder(
+    (layer): ModuleList(
+      (0-11): 12 x BertLayer(
+        (attention): BertAttention(
+          (self): BertSelfAttention(
+            (query): Linear(in_features=768, out_features=768, bias=True)
+            (key): Linear(in_features=768, out_features=768, bias=True)
+            (value): Linear(in_features=768, out_features=768, bias=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+          (output): BertSelfOutput(
+            (dense): Linear(in_features=768, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (intermediate): BertIntermediate(
+          (dense): Linear(in_features=768, out_features=3072, bias=True)
+          (intermediate_act_fn): GELUActivation()
+        )
+        (output): BertOutput(
+          (dense): Linear(in_features=3072, out_features=768, bias=True)
+          (LayerNorm): LayerNorm((768,), eps=1e-12, elementwise_affine=True)
+          (dropout): Dropout(p=0.1, inplace=False)
+        )
+      )
+    )
+  )
+  (pooler): BertPooler(
+    (dense): Linear(in_features=768, out_features=768, bias=True)
+    (activation): Tanh()
+  )
+)
+
+----------------
+microsoft/mdeberta-v3-base
+
+Parameters in M 85.057536
+DebertaV2Model(
+  (embeddings): DebertaV2Embeddings(
+    (word_embeddings): Embedding(251000, 768, padding_idx=0)
+    (LayerNorm): LayerNorm((768,), eps=1e-07, elementwise_affine=True)
+    (dropout): StableDropout()
+  )
+  (encoder): DebertaV2Encoder(
+    (layer): ModuleList(
+      (0-11): 12 x DebertaV2Layer(
+        (attention): DebertaV2Attention(
+          (self): DisentangledSelfAttention(
+            (query_proj): Linear(in_features=768, out_features=768, bias=True)
+            (key_proj): Linear(in_features=768, out_features=768, bias=True)
+            (value_proj): Linear(in_features=768, out_features=768, bias=True)
+            (pos_dropout): StableDropout()
+            (dropout): StableDropout()
+          )
+          (output): DebertaV2SelfOutput(
+            (dense): Linear(in_features=768, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-07, elementwise_affine=True)
+            (dropout): StableDropout()
+          )
+        )
+        (intermediate): DebertaV2Intermediate(
+          (dense): Linear(in_features=768, out_features=3072, bias=True)
+          (intermediate_act_fn): GELUActivation()
+        )
+        (output): DebertaV2Output(
+          (dense): Linear(in_features=3072, out_features=768, bias=True)
+          (LayerNorm): LayerNorm((768,), eps=1e-07, elementwise_affine=True)
+          (dropout): StableDropout()
+        )
+      )
+    )
+    (rel_embeddings): Embedding(512, 768)
+    (LayerNorm): LayerNorm((768,), eps=1e-07, elementwise_affine=True)
+  )
+)
+
+----------------
+FacebookAI/xlm-roberta-base
+
+Parameters in M 85.646592
+XLMRobertaModel(
+  (embeddings): XLMRobertaEmbeddings(
+    (word_embeddings): Embedding(250002, 768, padding_idx=1)
+    (position_embeddings): Embedding(514, 768, padding_idx=1)
+    (token_type_embeddings): Embedding(1, 768)
+    (LayerNorm): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+    (dropout): Dropout(p=0.1, inplace=False)
+  )
+  (encoder): XLMRobertaEncoder(
+    (layer): ModuleList(
+      (0-11): 12 x XLMRobertaLayer(
+        (attention): XLMRobertaAttention(
+          (self): XLMRobertaSelfAttention(
+            (query): Linear(in_features=768, out_features=768, bias=True)
+            (key): Linear(in_features=768, out_features=768, bias=True)
+            (value): Linear(in_features=768, out_features=768, bias=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+          (output): XLMRobertaSelfOutput(
+            (dense): Linear(in_features=768, out_features=768, bias=True)
+            (LayerNorm): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (intermediate): XLMRobertaIntermediate(
+          (dense): Linear(in_features=768, out_features=3072, bias=True)
+          (intermediate_act_fn): GELUActivation()
+        )
+        (output): XLMRobertaOutput(
+          (dense): Linear(in_features=3072, out_features=768, bias=True)
+          (LayerNorm): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+          (dropout): Dropout(p=0.1, inplace=False)
+        )
+      )
+    )
+  )
+  (pooler): XLMRobertaPooler(
+    (dense): Linear(in_features=768, out_features=768, bias=True)
+    (activation): Tanh()
+  )
+)
+
+----------------
+FacebookAI/xlm-roberta-large
+
+Parameters in M 303.361024
+XLMRobertaModel(
+  (embeddings): XLMRobertaEmbeddings(
+    (word_embeddings): Embedding(250002, 1024, padding_idx=1)
+    (position_embeddings): Embedding(514, 1024, padding_idx=1)
+    (token_type_embeddings): Embedding(1, 1024)
+    (LayerNorm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+    (dropout): Dropout(p=0.1, inplace=False)
+  )
+  (encoder): XLMRobertaEncoder(
+    (layer): ModuleList(
+      (0-23): 24 x XLMRobertaLayer(
+        (attention): XLMRobertaAttention(
+          (self): XLMRobertaSelfAttention(
+            (query): Linear(in_features=1024, out_features=1024, bias=True)
+            (key): Linear(in_features=1024, out_features=1024, bias=True)
+            (value): Linear(in_features=1024, out_features=1024, bias=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+          (output): XLMRobertaSelfOutput(
+            (dense): Linear(in_features=1024, out_features=1024, bias=True)
+            (LayerNorm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (intermediate): XLMRobertaIntermediate(
+          (dense): Linear(in_features=1024, out_features=4096, bias=True)
+          (intermediate_act_fn): GELUActivation()
+        )
+        (output): XLMRobertaOutput(
+          (dense): Linear(in_features=4096, out_features=1024, bias=True)
+          (LayerNorm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+          (dropout): Dropout(p=0.1, inplace=False)
+        )
+      )
+    )
+  )
+  (pooler): XLMRobertaPooler(
+    (dense): Linear(in_features=1024, out_features=1024, bias=True)
+    (activation): Tanh()
+  )
+)
+
+----------------
+utter-project/mHuBERT-147
+
+Parameters in M 94.371712
+HubertModel(
+  (feature_extractor): HubertFeatureEncoder(
+    (conv_layers): ModuleList(
+      (0): HubertGroupNormConvLayer(
+        (conv): Conv1d(1, 512, kernel_size=(10,), stride=(5,), bias=False)
+        (activation): GELUActivation()
+        (layer_norm): GroupNorm(512, 512, eps=1e-05, affine=True)
+      )
+      (1-4): 4 x HubertNoLayerNormConvLayer(
+        (conv): Conv1d(512, 512, kernel_size=(3,), stride=(2,), bias=False)
+        (activation): GELUActivation()
+      )
+      (5-6): 2 x HubertNoLayerNormConvLayer(
+        (conv): Conv1d(512, 512, kernel_size=(2,), stride=(2,), bias=False)
+        (activation): GELUActivation()
+      )
+    )
+  )
+  (feature_projection): HubertFeatureProjection(
+    (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+    (projection): Linear(in_features=512, out_features=768, bias=True)
+    (dropout): Dropout(p=0.1, inplace=False)
+  )
+  (encoder): HubertEncoder(
+    (pos_conv_embed): HubertPositionalConvEmbedding(
+      (conv): Conv1d(768, 768, kernel_size=(128,), stride=(1,), padding=(64,), groups=16)
+      (padding): HubertSamePadLayer()
+      (activation): GELUActivation()
+    )
+    (layer_norm): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+    (dropout): Dropout(p=0.1, inplace=False)
+    (layers): ModuleList(
+      (0-11): 12 x HubertEncoderLayer(
+        (attention): HubertAttention(
+          (k_proj): Linear(in_features=768, out_features=768, bias=True)
+          (v_proj): Linear(in_features=768, out_features=768, bias=True)
+          (q_proj): Linear(in_features=768, out_features=768, bias=True)
+          (out_proj): Linear(in_features=768, out_features=768, bias=True)
+        )
+        (dropout): Dropout(p=0.1, inplace=False)
+        (layer_norm): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+        (feed_forward): HubertFeedForward(
+          (intermediate_dropout): Dropout(p=0.1, inplace=False)
+          (intermediate_dense): Linear(in_features=768, out_features=3072, bias=True)
+          (intermediate_act_fn): GELUActivation()
+          (output_dense): Linear(in_features=3072, out_features=768, bias=True)
+          (output_dropout): Dropout(p=0.1, inplace=False)
+        )
+        (final_layer_norm): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+  )
+)
+
+----------------
+facebook/wav2vec2-xls-r-300m
+
+Parameters in M 315.43872
+Wav2Vec2Model(
+  (feature_extractor): Wav2Vec2FeatureEncoder(
+    (conv_layers): ModuleList(
+      (0): Wav2Vec2LayerNormConvLayer(
+        (conv): Conv1d(1, 512, kernel_size=(10,), stride=(5,))
+        (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (activation): GELUActivation()
+      )
+      (1-4): 4 x Wav2Vec2LayerNormConvLayer(
+        (conv): Conv1d(512, 512, kernel_size=(3,), stride=(2,))
+        (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (activation): GELUActivation()
+      )
+      (5-6): 2 x Wav2Vec2LayerNormConvLayer(
+        (conv): Conv1d(512, 512, kernel_size=(2,), stride=(2,))
+        (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (activation): GELUActivation()
+      )
+    )
+  )
+  (feature_projection): Wav2Vec2FeatureProjection(
+    (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+    (projection): Linear(in_features=512, out_features=1024, bias=True)
+    (dropout): Dropout(p=0.1, inplace=False)
+  )
+  (encoder): Wav2Vec2EncoderStableLayerNorm(
+    (pos_conv_embed): Wav2Vec2PositionalConvEmbedding(
+      (conv): Conv1d(1024, 1024, kernel_size=(128,), stride=(1,), padding=(64,), groups=16)
+      (padding): Wav2Vec2SamePadLayer()
+      (activation): GELUActivation()
+    )
+    (layer_norm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+    (dropout): Dropout(p=0.1, inplace=False)
+    (layers): ModuleList(
+      (0-23): 24 x Wav2Vec2EncoderLayerStableLayerNorm(
+        (attention): Wav2Vec2Attention(
+          (k_proj): Linear(in_features=1024, out_features=1024, bias=True)
+          (v_proj): Linear(in_features=1024, out_features=1024, bias=True)
+          (q_proj): Linear(in_features=1024, out_features=1024, bias=True)
+          (out_proj): Linear(in_features=1024, out_features=1024, bias=True)
+        )
+        (dropout): Dropout(p=0.1, inplace=False)
+        (layer_norm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+        (feed_forward): Wav2Vec2FeedForward(
+          (intermediate_dropout): Dropout(p=0.0, inplace=False)
+          (intermediate_dense): Linear(in_features=1024, out_features=4096, bias=True)
+          (intermediate_act_fn): GELUActivation()
+          (output_dense): Linear(in_features=4096, out_features=1024, bias=True)
+          (output_dropout): Dropout(p=0.1, inplace=False)
+        )
+        (final_layer_norm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+  )
+)
+
+----------------
+facebook/mms-300m
+
+Parameters in M 315.43872
+Wav2Vec2Model(
+  (feature_extractor): Wav2Vec2FeatureEncoder(
+    (conv_layers): ModuleList(
+      (0): Wav2Vec2LayerNormConvLayer(
+        (conv): Conv1d(1, 512, kernel_size=(10,), stride=(5,))
+        (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (activation): GELUActivation()
+      )
+      (1-4): 4 x Wav2Vec2LayerNormConvLayer(
+        (conv): Conv1d(512, 512, kernel_size=(3,), stride=(2,))
+        (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (activation): GELUActivation()
+      )
+      (5-6): 2 x Wav2Vec2LayerNormConvLayer(
+        (conv): Conv1d(512, 512, kernel_size=(2,), stride=(2,))
+        (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+        (activation): GELUActivation()
+      )
+    )
+  )
+  (feature_projection): Wav2Vec2FeatureProjection(
+    (layer_norm): LayerNorm((512,), eps=1e-05, elementwise_affine=True)
+    (projection): Linear(in_features=512, out_features=1024, bias=True)
+    (dropout): Dropout(p=0.1, inplace=False)
+  )
+  (encoder): Wav2Vec2EncoderStableLayerNorm(
+    (pos_conv_embed): Wav2Vec2PositionalConvEmbedding(
+      (conv): Conv1d(1024, 1024, kernel_size=(128,), stride=(1,), padding=(64,), groups=16)
+      (padding): Wav2Vec2SamePadLayer()
+      (activation): GELUActivation()
+    )
+    (layer_norm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+    (dropout): Dropout(p=0.1, inplace=False)
+    (layers): ModuleList(
+      (0-23): 24 x Wav2Vec2EncoderLayerStableLayerNorm(
+        (attention): Wav2Vec2Attention(
+          (k_proj): Linear(in_features=1024, out_features=1024, bias=True)
+          (v_proj): Linear(in_features=1024, out_features=1024, bias=True)
+          (q_proj): Linear(in_features=1024, out_features=1024, bias=True)
+          (out_proj): Linear(in_features=1024, out_features=1024, bias=True)
+        )
+        (dropout): Dropout(p=0.1, inplace=False)
+        (layer_norm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+        (feed_forward): Wav2Vec2FeedForward(
+          (intermediate_dropout): Dropout(p=0.0, inplace=False)
+          (intermediate_dense): Linear(in_features=1024, out_features=4096, bias=True)
+          (intermediate_act_fn): GELUActivation()
+          (output_dense): Linear(in_features=4096, out_features=1024, bias=True)
+          (output_dropout): Dropout(p=0.1, inplace=False)
+        )
+        (final_layer_norm): LayerNorm((1024,), eps=1e-05, elementwise_affine=True)
+      )
+    )
+  )
+)
+
