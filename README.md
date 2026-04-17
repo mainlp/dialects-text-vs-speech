@@ -1,7 +1,7 @@
 # Standard-to-Dialect transfer trends differ across text and speech: A case study on intent and topic classification in German dialects
 
 This repository contains code and detailed results for
-> Verena Blaschke, Miriam Winkler, Barbara Plank. Standard-to-Dialect transfer trends differ across text and speech: A case study on intent and topic classification in German dialects. https://arxiv.org/abs/2510.07890
+> Verena Blaschke, Miriam Winkler, Barbara Plank. 2026. Standard-to-Dialect transfer trends differ across text and speech: A case study on intent and topic classification in German dialects. To appear in the *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics*. https://arxiv.org/abs/2510.07890
 
 Please cite the paper if you use any of this data/code.
 
@@ -24,8 +24,7 @@ Please also use a zip archive (or similar) if you re-distribute the transcriptio
 - xSID: https://github.com/mainlp/xsid, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - MAS:de-ba: https://github.com/mainlp/NaLiBaSID
 - SwissDial: https://mtc.ethz.ch/publications/open-source/swiss-dial.html, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-- xSID-audio: link to come (at the latest when the paper is published), license TBD
-- The code in this repo: TBD
+- xSID-audio: https://doi.org/10.5281/zenodo.19554427
 
 ## Known issues
 The random seeds are not set properly. While the different runs are in fact seeded differently, the seed numbers in the prediction file names or de-aggregated results tables cannot be used to reproduce a run with exactly the same actual random seed.
