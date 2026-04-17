@@ -1,9 +1,9 @@
 # Standard-to-Dialect transfer trends differ across text and speech: A case study on intent and topic classification in German dialects
 
 This repository contains code and detailed results for
-> Verena Blaschke, Miriam Winkler, Barbara Plank. 2026. Standard-to-Dialect transfer trends differ across text and speech: A case study on intent and topic classification in German dialects. To appear in the *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics*. https://arxiv.org/abs/2510.07890
+> Verena Blaschke, Miriam Winkler, Barbara Plank. 2026. Standard-to-Dialect transfer trends differ across text and speech: A case study on intent and topic classification in German dialects. To appear in the *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics*. 
 
-Please cite the paper if you use any of this data/code.
+Please cite the paper if you use any of this data/code. A preprint is available at https://arxiv.org/abs/2510.07890.
 
 ## Repo structure
 - `code`: Check the README in this repo for details on downloading the data and executing the code.
