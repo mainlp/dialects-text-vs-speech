@@ -1,8 +1,10 @@
 # Code files
 
-1. Download the dataset files as needed.
+1. Download the dataset files as needed. Download the audio files (xSID-audio, SwissDial) following the links in the main README.
 
-We used the xSID files from release 0.6, but fix the partial misalignment between de and de-ba by editing de-ba.valid.conll to move sentences 151 and 152 so they become sentences 100 and 104 respectively: https://github.com/mainlp/xsid. 
+You can skip the re-mapping steps below if you use the TSV files in the data folder.
+
+We used the xSID files from release 0.5, but fix the partial misalignment between de and de-ba by editing de-ba.valid.conll to move sentences 151 and 152 so they become sentences 100 and 104 respectively: https://github.com/mainlp/xsid. 
 
 Update filepaths at the top of map_data.py to match your download location, and then re-map the data (this creates TSV files in `../data/`):
 ```
