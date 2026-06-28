@@ -1,0 +1,301 @@
+ID	Text	Intent	Audio
+1	Werds heid regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_1.wav
+2	Wia hoaß werds heid	weather/find	de-ba/valid/xsid_audio_de-ba_valid_2.wav
+3	Wia hoaß iss?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_3.wav
+4	Werds heid sonnig?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_4.wav
+5	Is es heid bewölkt?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_5.wav
+6	Lösch alle meine Erinnerungen.	reminder/cancel_reminder	de-ba/valid/xsid_audio_de-ba_valid_6.wav
+7	Weichane Alarme hob i gsetzt?	alarm/show_alarms	de-ba/valid/xsid_audio_de-ba_valid_7.wav
+8	I brauch an alarm füa 5 nammiddog um mi dro zum erinnern mei Medizin zum nehma	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_8.wav
+9	Setz an alarm füa olle 3 Minutn	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_9.wav
+10	Werds heid stürmen?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_10.wav
+11	Lösch den Alarm vom nammiddog.	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_11.wav
+12	Werds nächste Woch regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_12.wav
+13	Wos is de Vorhersage füa nächste Woch?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_13.wav
+14	Lies ma meine Erinnerungen voa.	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_14.wav
+15	Zoag olle Wegga	alarm/show_alarms	de-ba/valid/xsid_audio_de-ba_valid_15.wav
+16	Alarm olle fünf Minutn füa 20 Minutn bitte	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_16.wav
+17	Änder den Alarm vo moang in da fria zu 6 in da fria.	alarm/modify_alarm	de-ba/valid/xsid_audio_de-ba_valid_17.wav
+18	Lösch alle Erinnerungen	reminder/cancel_reminder	de-ba/valid/xsid_audio_de-ba_valid_18.wav
+19	Zoag ma meine Wegga	alarm/show_alarms	de-ba/valid/xsid_audio_de-ba_valid_19.wav
+20	Lösch Wegga	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_20.wav
+21	Stei an Wegga füa 6 in da fria moang	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_21.wav
+22	Stei an Wegga füa 7 in da fria moang	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_22.wav
+23	Stei an Wegga füa 6 in da fria	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_23.wav
+24	I brauch a Erinnerung um Lisa abzumhoin	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_24.wav
+25	Zoag alle Wegga	alarm/show_alarms	de-ba/valid/xsid_audio_de-ba_valid_25.wav
+26	Schoid alle Alarme aus	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_26.wav
+27	Wos san meine Erinnerungen?	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_27.wav
+28	Is es hoaß draußn	weather/find	de-ba/valid/xsid_audio_de-ba_valid_28.wav
+29	Snooze Wegga	alarm/snooze_alarm	de-ba/valid/xsid_audio_de-ba_valid_29.wav
+30	Wegga o	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_30.wav
+31	Stei an Alarm füa 6 in da fria am Mittwoch	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_31.wav
+32	Erinner mi meine Unterrichtspläne jedn Mondog bis Tagesende einzumreicha	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_32.wav
+33	Wia hoaß werds heid wern	weather/find	de-ba/valid/xsid_audio_de-ba_valid_33.wav
+34	Lösch alle gsetztn Wegga.	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_34.wav
+35	Zoag alle Wegga	alarm/show_alarms	de-ba/valid/xsid_audio_de-ba_valid_35.wav
+36	Werds heid sonnig?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_36.wav
+37	Wia is de Luftfeuchtigkeitsgrad heid	weather/find	de-ba/valid/xsid_audio_de-ba_valid_37.wav
+38	Lösch alle Erinnerungen	reminder/cancel_reminder	de-ba/valid/xsid_audio_de-ba_valid_38.wav
+39	Stei an Alarm füa fünfzehn Minutn	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_39.wav
+40	Bitte stei mein Wegga füa 4 in da fria den Samsdog.	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_40.wav
+41	Mach ma a Erinnerung für de Hausschließung um 10 in da fria moang.	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_41.wav
+42	Lösch alle Wegga	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_42.wav
+43	Wia vui Wegga hob i füan Sonddog gsteid?	alarm/show_alarms	de-ba/valid/xsid_audio_de-ba_valid_43.wav
+44	Zoag olle Wegga	alarm/show_alarms	de-ba/valid/xsid_audio_de-ba_valid_44.wav
+45	Werds heid sonnig?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_45.wav
+46	Stei an Wegga füa 615 in da fria	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_46.wav
+47	Stei zwoa Wegga füa moang in da fria	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_47.wav
+48	Schoid alle Wegga aus	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_48.wav
+49	Wia is grod de Temperatur in London?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_49.wav
+50	Lösch mei letzde Erinnerung	reminder/cancel_reminder	de-ba/valid/xsid_audio_de-ba_valid_50.wav
+51	Mach a Erinnerung späda zum Lebensmittellodn zum geh	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_51.wav
+52	Wia werd da Hitzeindex heid sei?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_52.wav
+53	Wia koid werds heid?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_53.wav
+54	Werds heid schnein?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_54.wav
+55	Stei an Wegga füa 5 in da fria	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_55.wav
+56	Schoid an Alarm aus	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_56.wav
+57	Lösch alle Wegga	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_57.wav
+58	Mach a Erinnerung zum Schwimma um 11 voamiddog moang	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_58.wav
+59	Zoag meine Erinnerungen	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_59.wav
+60	Lösch mein Alarm am Samsdog	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_60.wav
+61	Iss koid draußn?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_61.wav
+62	Iss heid feicht?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_62.wav
+63	Stei an Alarm jede Minut füa 11 Minutn	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_63.wav
+64	Zoag meine Erinnerungen	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_64.wav
+65	Werds heid windig?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_65.wav
+66	Lösch de Erinnerungen vo moang	reminder/cancel_reminder	de-ba/valid/xsid_audio_de-ba_valid_66.wav
+67	Sog ma de 3 Dog Vorhersage	weather/find	de-ba/valid/xsid_audio_de-ba_valid_67.wav
+68	Wia vui Inches Regn sois moang gem?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_68.wav
+69	Erinner mi an de Hochzeit	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_69.wav
+70	Snooze alle Wegga	alarm/snooze_alarm	de-ba/valid/xsid_audio_de-ba_valid_70.wav
+71	Wann werds heid regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_71.wav
+72	Zoag alle Wegga	alarm/show_alarms	de-ba/valid/xsid_audio_de-ba_valid_72.wav
+73	Schoid alle Wegga aus	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_73.wav
+74	Werds heid regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_74.wav
+75	Zoag alle Erinnerungen füa moang	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_75.wav
+76	Lösch mein Wegga füa moang in da fria	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_76.wav
+77	Wia hoaß iss?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_77.wav
+78	Erinner mi heid aufnacht Muich zum kaufa	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_78.wav
+79	Lösch alle Erinnerungen	reminder/cancel_reminder	de-ba/valid/xsid_audio_de-ba_valid_79.wav
+80	Zoag alle Wegga	alarm/show_alarms	de-ba/valid/xsid_audio_de-ba_valid_80.wav
+81	Lösch mein Alarm füa moang in da fria	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_81.wav
+82	Werds moang sonnig?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_82.wav
+83	Lösch den Alarm füa moang in da fria	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_83.wav
+84	Zoag alle Erinnerungen füa moang in da fria	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_84.wav
+85	Wia is de Luftfeuchtigkeit heid?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_85.wav
+86	Wann werds regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_86.wav
+87	Wia hoaß iss?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_87.wav
+88	Zoag ma meine Erinnerungen	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_88.wav
+89	Wos is de 5 Dog Vorhersage?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_89.wav
+90	Setz an Alarm füa 6 in da fria	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_90.wav
+91	Werds heid koid?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_91.wav
+92	Setz a Erinnerung mei Schui am Monddog um 4 nammiddog ozumruafa	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_92.wav
+93	Lösch mei Erinnerung, dass i an Patrick moang vo da Schui abhoin muas.	reminder/cancel_reminder	de-ba/valid/xsid_audio_de-ba_valid_93.wav
+94	Wia koid werds in da fria sei?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_94.wav
+95	Brauch i an Regnschirm moang	weather/find	de-ba/valid/xsid_audio_de-ba_valid_95.wav
+96	Zoag meine Erinnerungen	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_96.wav
+97	Stopp den Wegga füa 6:00 in da fria	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_97.wav
+98	Lösch alle Wegga	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_98.wav
+99	Werds heid sonnig?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_99.wav
+100	Wia isn s Weda in London?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_100.wav
+101	Wos san meine Erinnerungen?	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_101.wav
+102	Lösch mei Erinnerung am Papa zum schreim	reminder/cancel_reminder	de-ba/valid/xsid_audio_de-ba_valid_102.wav
+103	Stei an Wegga füa 6 in da fria	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_103.wav
+104	Schoid an Wegga aus	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_104.wav
+105	Lösch den Wegga	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_105.wav
+106	Schoid den Wegga aus	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_106.wav
+107	Erinner mi mei Mama um 2 nammiddog ozumruafa	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_107.wav
+108	Lösch alle Wegga	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_108.wav
+109	Werds moang hoaß	weather/find	de-ba/valid/xsid_audio_de-ba_valid_109.wav
+110	Iss heid koid draußn?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_110.wav
+111	Stei an Wegga füa 5 heid aufnacht	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_111.wav
+112	Werds des Wochenende regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_112.wav
+113	Werds heid regna	weather/find	de-ba/valid/xsid_audio_de-ba_valid_113.wav
+114	Setz an Wegga füa Monddog um 3 in da fria	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_114.wav
+115	Wegga o	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_115.wav
+116	Werds am Samsdog regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_116.wav
+117	Stei an Alarm füa 5 in da fria	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_117.wav
+118	Brauch i an Mantel heid?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_118.wav
+119	Schoid an Wegga aus	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_119.wav
+120	Wos füa Wedawarnungen hob i?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_120.wav
+121	Lösch de Erinnerung füa s Treffn an da Hüttn	reminder/cancel_reminder	de-ba/valid/xsid_audio_de-ba_valid_121.wav
+122	Soi i heid an Mantel oziagn	weather/find	de-ba/valid/xsid_audio_de-ba_valid_122.wav
+123	Schoid olle Wegga aus.	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_123.wav
+124	Zoag alle Wegga	alarm/show_alarms	de-ba/valid/xsid_audio_de-ba_valid_124.wav
+125	Mach an neia Wegga füa Donnasdag um 1 nammiddog.	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_125.wav
+126	Erinner mi nächsten Monddog zum Zahnarzt zum geh.	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_126.wav
+127	Soi i heid an Regnschirm mitbringa	weather/find	de-ba/valid/xsid_audio_de-ba_valid_127.wav
+128	Wia isn s Weda de Woch?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_128.wav
+129	Iss heid untam Gefriefpunkt?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_129.wav
+130	Lösch alle Erinnerungen	reminder/cancel_reminder	de-ba/valid/xsid_audio_de-ba_valid_130.wav
+131	Werds heid regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_131.wav
+132	Werds des Wochenende regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_132.wav
+133	Mach a Erinnerung füa den Besuch meiner Mama nächste Woch	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_133.wav
+134	Werds moang schnein?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_134.wav
+135	Zoag alle Erinnerungen	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_135.wav
+136	Brauch i an Mantel heid?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_136.wav
+137	Werds am Donnasdog schnein	weather/find	de-ba/valid/xsid_audio_de-ba_valid_137.wav
+138	Erinner mi dro den nammiddog Kaffee im Starbucks zum kaufa	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_138.wav
+139	Stei an Wegga füa alle 10 Minutn, startend ab 5:30 und endend um 6 in da fria.	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_139.wav
+140	Werds am Samsdog regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_140.wav
+141	Stei an Wegga füa 7:20 in da fria füa de Schua Veröffentlichung.	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_141.wav
+142	Werds in Bordentown heid Stürme gem	weather/find	de-ba/valid/xsid_audio_de-ba_valid_142.wav
+143	Wia is de aktuelle Temperatur	weather/find	de-ba/valid/xsid_audio_de-ba_valid_143.wav
+144	Erinner mi dro Dans Middogessn moang um 7:30 in da fria zum macha.	reminder/set_reminder	de-ba/valid/xsid_audio_de-ba_valid_144.wav
+145	Stei an Wegga füa 6:30 moang in da fria.	alarm/set_alarm	de-ba/valid/xsid_audio_de-ba_valid_145.wav
+146	Hob i irgendweiche Erinnerungen gsetzt?	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_146.wav
+147	Is mei Zahnarzttermin in meine Erinnerungen?	reminder/show_reminders	de-ba/valid/xsid_audio_de-ba_valid_147.wav
+148	Wann heards auf zum regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_148.wav
+149	Werds de Woch schnein?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_149.wav
+150	Schoid an Wegga aus	alarm/cancel_alarm	de-ba/valid/xsid_audio_de-ba_valid_150.wav
+151	I dad Half a Life 3 vo 6 gem	RateBook	de-ba/valid/xsid_audio_de-ba_valid_151.wav
+152	Spui bissl Mf Doom vo de Sechziga auf Pandora.	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_152.wav
+153	Suach nach Chasing Fortune oana TV Serie.	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_153.wav
+154	Spui shadowplay vo Dana auf Deezer.	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_154.wav
+155	I und Imelda mechadn a Resavierung in Missouri um simme in da fria	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_155.wav
+156	Mach Bob Klose auf la mejor música para tus fiestas	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_156.wav
+157	Spui Luis Alfonzo Larrain vo 1995	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_157.wav
+158	Wia werds Weda in de Bahamas in eifahoib Joa vo jetzad	weather/find	de-ba/valid/xsid_audio_de-ba_valid_158.wav
+159	Wia werds Weda in Arizona am 3. Oktoba	weather/find	de-ba/valid/xsid_audio_de-ba_valid_159.wav
+160	Spui Opernmusi auf Google Music	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_160.wav
+161	Suach Vegucated startend um null Uhr	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_161.wav
+162	Gib dem aktuellen Roman a Bewertung vo 3 vo 6	RateBook	de-ba/valid/xsid_audio_de-ba_valid_162.wav
+163	I mechad des Album zu funtime dazua doa.	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_163.wav
+164	I brauch an Disch füa 4 in am Restaurant um null Uhr rum.	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_164.wav
+165	Find des Buidl Louder Than Bombs	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_165.wav
+166	Gib A Tale of Time City 2 vo 6 Punktn	RateBook	de-ba/valid/xsid_audio_de-ba_valid_166.wav
+167	Füg dem aktuelln Buach fünf Sterne dazua	RateBook	de-ba/valid/xsid_audio_de-ba_valid_167.wav
+168	Mach Liad 70s smash hits in mei	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_168.wav
+169	Buach nahe Montana füa 6 am Diensdog a Restaurant des Sri Lankisches Essn serviert des hoch bewerted is .	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_169.wav
+170	Buach ma a Middogessn in Boreas füa a Gruppn vo 8	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_170.wav
+171	Bitte mach a anders Liad in de laundry playlist.	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_171.wav
+172	Wos is de PW Vorhersage füa stürmigs Weda	weather/find	de-ba/valid/xsid_audio_de-ba_valid_172.wav
+173	Wos is des vorhergsogte Weda für mein aktuelln Blodz nächsten Monat?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_173.wav
+174	Buach ma a Resavierung füa 1 am 17. März	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_174.wav
+175	Des aktuelle Album griagt drei vo 6 Punkte	RateBook	de-ba/valid/xsid_audio_de-ba_valid_175.wav
+176	Mach des Nastya Kamenskih Liad in mei The Martin Garrix Show playlist.	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_176.wav
+177	I mechad des Album Since I Saw You Last hearn	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_177.wav
+178	Spui top Liadl vo Joseph Utsler	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_178.wav
+179	Find ma de Zeitn füa Ghost World.	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_179.wav
+180	I mechad a Konzert vo Timour Moutsouraev hearn	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_180.wav
+181	Spui des Album Everybody Happy vo Lee Aaron	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_181.wav
+182	Spui Fereydoun Farrokhzad bests Liad	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_182.wav
+183	Bewert des aktuelle Buach mit drei Sternen	RateBook	de-ba/valid/xsid_audio_de-ba_valid_183.wav
+184	Wia werds Weda in Meeres-Nationalpark Insel Bastimentos um zwöif Uhr sei?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_184.wav
+185	Buach an Disch füa 10 Leid in am Restaurant des Internet obiet.	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_185.wav
+186	Gib The Tenor Wore Tapshoes fünf Punkte	RateBook	de-ba/valid/xsid_audio_de-ba_valid_186.wav
+187	Spui a Liad vo Houston auf Spotify	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_187.wav
+188	Find ma a Kino mit Life and Death	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_188.wav
+189	Spui Musi vo da Playlist Get Your Mind Right	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_189.wav
+190	Buach an Disch heid in am Steakhaus füa acht des Sashimi saviert	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_190.wav
+191	Find animierte Filme in Caribbean Cinemas	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_191.wav
+192	Werds a Gwitter in da Nähe gem	weather/find	de-ba/valid/xsid_audio_de-ba_valid_192.wav
+193	Spui boa Melodien vo de Achtzga auf Spotify	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_193.wav
+194	Wo konn i The World According to Paris findn?	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_194.wav
+195	Sog ma wanns in China heaßa werd	weather/find	de-ba/valid/xsid_audio_de-ba_valid_195.wav
+196	Wos san de Vorführungszeitn füas Caribbean Cinemas?	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_196.wav
+197	Werd da Wind an meim aktuellen Ort zum Abendessen hi aufhearn?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_197.wav
+198	Find ma The Twinkler des bei National Amusements in 2 Minutn spuid	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_198.wav
+199	I gib Hadon of Ancient Opar zwoa vo 6 Punkte	RateBook	de-ba/valid/xsid_audio_de-ba_valid_199.wav
+200	I mechad Shawn, Marguerite und Della zu am Blotz zum Essn in da Nähe vo Rwanda bringa.	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_200.wav
+201	Spui Musi auf Lastfm	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_201.wav
+202	Werds an da aktuellen Position bis zum 3. März schnein?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_202.wav
+203	Find ma an Disch füa 8 irgendwo in Hollenberg in nein Wochan	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_203.wav
+204	Spui a Liad vo 2004	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_204.wav
+205	Sog ma weichane Filme aktuell in AMC Theaters spuin	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_205.wav
+206	Zoag ma de TV Serie Limit of Love: Umizaru	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_206.wav
+207	Zoag ma de Fotografie Rock You Baby	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_207.wav
+208	Werd Tarzan of the Apes in Cobb Theatres gspuid	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_208.wav
+209	Mach Kan Mikami auf Pre-Party R&B Jams	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_209.wav
+210	Werds an Schneesturm an meina aktuelln Position gem	weather/find	de-ba/valid/xsid_audio_de-ba_valid_210.wav
+211	Buach an Disch füa mi und mein Stiefonkel in Malta in na cafeteria	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_211.wav
+212	Spui de beliebteste zwanzga Platte vo Leland Sklar	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_212.wav
+213	Zoag ma de Vorhersage füa Wisconsin	weather/find	de-ba/valid/xsid_audio_de-ba_valid_213.wav
+214	Find a Fotografie namens Between the Days	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_214.wav
+215	Buach in The Halal Guys am 17. Oktoba	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_215.wav
+216	Bitte sog ma de Vorhersage füa Guinea-Bissau	weather/find	de-ba/valid/xsid_audio_de-ba_valid_216.wav
+217	Mach des Liad in mei the perfect italian dinner playlist	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_217.wav
+218	Weda in Tioga Colorado	weather/find	de-ba/valid/xsid_audio_de-ba_valid_218.wav
+219	I mechad de Musi vo Ghost in the Shell: Stand Alone Complex hearn	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_219.wav
+220	Zoag ma Happiness Was Free.	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_220.wav
+221	Sois in da Nähe vo meina aktuelln Position um 0 Uhr regna?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_221.wav
+222	Buach an Disch in Fairview in da Nachbarschaft vo dera Gegend	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_222.wav
+223	Wia is de Vorhersage füa 15:04 in Georgia füa bewölkts Weda in Valley View	weather/find	de-ba/valid/xsid_audio_de-ba_valid_223.wav
+224	Konn i de Vorführungszeitn seng?	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_224.wav
+225	Find des nächste Filmhaus des Operation: Kingdom zoagt	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_225.wav
+226	Find an Trailer namens Storm Center.	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_226.wav
+227	Mach des Album auf mei dubstep dangles dirty playlist	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_227.wav
+228	Wia san de Filmzeitn	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_228.wav
+229	Spui a Liad vo Juanes auf Last Fm	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_229.wav
+230	Weis The Gate of Worlds 0 Punkte vo 6 zua	RateBook	de-ba/valid/xsid_audio_de-ba_valid_230.wav
+231	Spui bissl David Mallett auf last fm	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_231.wav
+232	Find ma da Filmzeitn	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_232.wav
+233	Werds um 4 nammiddog windig in NY?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_233.wav
+234	Buach ma a Restaurant füa neine in Statham	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_234.wav
+235	Find a Videospui namens IBM Program temporary fix	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_235.wav
+236	Find an Disch füa oan in am beliebten Churrascaria in drei Wochan vo jetzad	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_236.wav
+237	Füa Mirrorshades I bewerts mit drei Sterne	RateBook	de-ba/valid/xsid_audio_de-ba_valid_237.wav
+238	Buach a Restaurant in Colorado City Idaho des Agnolotti serviert.	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_238.wav
+239	Mach bright and breezy in mei This Is Gucci Mane playlist	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_239.wav
+240	Konnst du mia des Weda füa do gem	weather/find	de-ba/valid/xsid_audio_de-ba_valid_240.wav
+241	Mach Ashley McIsaac in mei r&b party classics playlist	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_241.wav
+242	I dad gern de Saga 12 Soulful Nights of Christmas seng	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_242.wav
+243	I brauch a Reservierung füa 6 aufnacht mit na Gruppn vo 10 in Sand Lake	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_243.wav
+244	Nimm Groove Shark her um Musi vo de Achtzga zum spuin	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_244.wav
+245	Find an Soundtrack namens The House of the Yellow Carpet	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_245.wav
+246	Wos is des nächste Kino des Filme zoagt de in neinzehn Sekundn startn?	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_246.wav
+247	Mach Morten Harket zua this is puccini	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_247.wav
+248	Mach Spotify auf und spui a Liad vo de Zwanzga vo Richard Harvey	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_248.wav
+249	I mechad a Restaurant buacha	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_249.wav
+250	Spui des Album Vibrations vo Marion Elise Raven	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_250.wav
+251	Mach den Künstla in mei Jazz playlist	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_251.wav
+252	I mechad de Serie From Where to Eternity findn.	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_252.wav
+253	Spui de Top-Zwanzig songs vo The Kleptones auf Spotify	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_253.wav
+254	Wia werds Weda in sechs Minutn nahe Moosic sei	weather/find	de-ba/valid/xsid_audio_de-ba_valid_254.wav
+255	I mechad bissl Fufzga Musi hearn.	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_255.wav
+256	Zu weichana Zeit lauft Utamaro and His Five Women in Alamo Drafthouse Cinema	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_256.wav
+257	Find de Fotografie vo Adventure Time: The Secret of the Nameless Kingdom	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_257.wav
+258	Mach Do You Love Me auf mei acoustic soul playlist	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_258.wav
+259	Spui ma den bestn Charles Neidich Song	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_259.wav
+260	Wia werds am dreizehntn März 2037 in Wilderville, Montenegro sei	weather/find	de-ba/valid/xsid_audio_de-ba_valid_260.wav
+261	Find de Filmzeitn für ArcLight Hollywood.	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_261.wav
+262	Find a TV Serie namens Church of the Truly Warped.	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_262.wav
+263	Wos is de Vorhersage füa in achzehn Minutn do füa keydane Temps	weather/find	de-ba/valid/xsid_audio_de-ba_valid_263.wav
+264	Buach a Restaurant um sechzehn Uhr in SC	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_264.wav
+265	Stacy Watson und Adriana woin den nammeddog in de beste Osteria in Hallowell Minnesota geh	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_265.wav
+266	Werds koid in Western Sahara in 13 Stundn	weather/find	de-ba/valid/xsid_audio_de-ba_valid_266.wav
+267	Mach Armen Movsessian in de this is skepta playlist	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_267.wav
+268	Bewert den aktuelln Aufsatz mit drei vo 6 Sterne	RateBook	de-ba/valid/xsid_audio_de-ba_valid_268.wav
+269	Find a Reservierung füa drei in am top-bewerteten Restaurant	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_269.wav
+270	Bewert den aktuelln Roman mit 0 vo 6	RateBook	de-ba/valid/xsid_audio_de-ba_valid_270.wav
+271	I dad gern de Showzeitn füa Silly Movie 2.0 im Filmhaus seng	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_271.wav
+272	Werds keyda wern in Sinclair in 8 Stundn	weather/find	de-ba/valid/xsid_audio_de-ba_valid_272.wav
+273	Mach des Liad in mei in the arms of a woman	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_273.wav
+274	Buach füa 3 in U.S. Virgin Islands	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_274.wav
+275	Werds keyda wern in La Mesa?	weather/find	de-ba/valid/xsid_audio_de-ba_valid_275.wav
+276	Bewert den Aufsatz mit 2 vo 6 Sterne	RateBook	de-ba/valid/xsid_audio_de-ba_valid_276.wav
+277	Gib My Sister, My Love drei Sterne / 6	RateBook	de-ba/valid/xsid_audio_de-ba_valid_277.wav
+278	Find de Filmzeitn füa Marcus Corporation.	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_278.wav
+279	Weichane Filme san in da Nachbarschaft geplant?	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_279.wav
+280	Mach cross bones style auf Guest List TaKe	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_280.wav
+281	Mach a Reservierung füa a Taverne de Pizzen saviert füa a Gruppn vo 6	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_281.wav
+282	Bewert The Art of Nijinsky mit 5 Punktn	RateBook	de-ba/valid/xsid_audio_de-ba_valid_282.wav
+283	Mach Jacob Hoggard in mei get going playlist	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_283.wav
+284	Gib ma a Listn vo Filmzeitn füa Filme in da Gegend.	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_284.wav
+285	Find The Ultimate Gift, a Fernsehsendung	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_285.wav
+286	Wia isn s Weda in da Nähe vo Triumph	weather/find	de-ba/valid/xsid_audio_de-ba_valid_286.wav
+287	Wann ko i A Handful of Dust in am Kino seng	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_287.wav
+288	Bitte mach a Album vo Joseph Meyer auf mei POP GOES THE 80s Playlist	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_288.wav
+289	Show vo From South Africa to South Carolina	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_289.wav
+290	Buach a top-bewertete Osteria in sim Wochan vo jetzad	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_290.wav
+291	Weicha Kino zoagt Flower and Snake um 08:56:29 ?	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_291.wav
+292	Suach a Restaurant in FM des Quiche saviert	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_292.wav
+293	Mach a Reservierung füa 7 Leid in The French Laundry am 8. Juni 2029	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_293.wav
+294	Spui viazga Liada	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_294.wav
+295	Wann werd des Santikos Theatres animierte Filme zoagn	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_295.wav
+296	Spui Musi auf Itunes	PlayMusic	de-ba/valid/xsid_audio_de-ba_valid_296.wav
+297	Zoag a Buach namens Straight No Chase	SearchCreativeWork	de-ba/valid/xsid_audio_de-ba_valid_297.wav
+298	Find de Filmzeitn füa Filme in da Nähe	SearchScreeningEvent	de-ba/valid/xsid_audio_de-ba_valid_298.wav
+299	Meredith, Betty und Erika woin den Winta in am Gastropub essn des in da gleichn Gegend is wia Frans Ort is.	BookRestaurant	de-ba/valid/xsid_audio_de-ba_valid_299.wav
+300	Mach des Liad in mei Para comer	AddToPlaylist	de-ba/valid/xsid_audio_de-ba_valid_300.wav
