@@ -1,501 +1,501 @@
-ID	Text	Intent	Audio
-1	Zeige alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_001.wav
-2	Benötige ich einen Pullover?	weather/find	de/test/xsid_audio_de_test_002.wav
-3	Eine Erinnerung für heute um 4 Uhr nachmittags hinzufügen	reminder/set_reminder	de/test/xsid_audio_de_test_003.wav
-4	lösche meine Erinnerung	reminder/cancel_reminder	de/test/xsid_audio_de_test_004.wav
-5	Erinnere mich Gas zu kaufen.	reminder/set_reminder	de/test/xsid_audio_de_test_005.wav
-6	Benötige ich am Mittwoch einen Regenschirm?	weather/find	de/test/xsid_audio_de_test_006.wav
-7	snooze meinen Wecker für fünf Minuten	alarm/snooze_alarm	de/test/xsid_audio_de_test_007.wav
-8	erstelle eine Geburtstagserinnerung für max	reminder/set_reminder	de/test/xsid_audio_de_test_008.wav
-9	Zeig mir alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_009.wav
-10	Zeige alle Wecker.	alarm/show_alarms	de/test/xsid_audio_de_test_010.wav
-11	Regnet es heute?	weather/find	de/test/xsid_audio_de_test_011.wav
-12	Stelle den Wecker auf 8:00 Uhr ein	alarm/set_alarm	de/test/xsid_audio_de_test_012.wav
-13	Wie ist die Temperatur heute?	weather/find	de/test/xsid_audio_de_test_013.wav
-14	Zeige meine Erinnerung	reminder/show_reminders	de/test/xsid_audio_de_test_014.wav
-15	Alle Wecker anzeigen	alarm/show_alarms	de/test/xsid_audio_de_test_015.wav
-16	Erinnere mich mit Ben über Georgia zu reden	reminder/set_reminder	de/test/xsid_audio_de_test_016.wav
-17	Erstelle einen Wecker für 5 Uhr morgens	alarm/set_alarm	de/test/xsid_audio_de_test_017.wav
-18	ist es heute bewölkt	weather/find	de/test/xsid_audio_de_test_018.wav
-19	Wie viele Millimeter Regen werden wir heute bekommen?	weather/find	de/test/xsid_audio_de_test_019.wav
-20	Erinnere mich, morgen meine Schwester anzurufen	reminder/set_reminder	de/test/xsid_audio_de_test_020.wav
-21	schalte Wecker aus	alarm/cancel_alarm	de/test/xsid_audio_de_test_021.wav
-22	Wird es diese Woche heiß?	weather/find	de/test/xsid_audio_de_test_022.wav
-23	Erstelle einen Wecker für 3 Uhr nachmittags.	alarm/set_alarm	de/test/xsid_audio_de_test_023.wav
-24	wird es heute schneien	weather/find	de/test/xsid_audio_de_test_024.wav
-25	entferne alle Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_025.wav
-26	Zeig mir meine Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_026.wav
-27	Wie viel Zeit bleibt beim Wecker übrig	alarm/time_left_on_alarm	de/test/xsid_audio_de_test_027.wav
-28	Was sind meine Erinnerungen?	reminder/show_reminders	de/test/xsid_audio_de_test_028.wav
-29	Erstelle einen täglichen Wecker für 8 Uhr morgens	alarm/set_alarm	de/test/xsid_audio_de_test_029.wav
-30	kannst du mir die Wecker anzeigen?	alarm/show_alarms	de/test/xsid_audio_de_test_030.wav
-31	Erwartet Disney World heute Stürme?	weather/find	de/test/xsid_audio_de_test_031.wav
-32	wird es heute schneien	weather/find	de/test/xsid_audio_de_test_032.wav
-33	zeige alle Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_033.wav
-34	Ist es heute kalt?	weather/find	de/test/xsid_audio_de_test_034.wav
-35	Bitte lösche den Wecker für Donnerstagmorgen.	alarm/cancel_alarm	de/test/xsid_audio_de_test_035.wav
-36	Regnet es heute?	weather/find	de/test/xsid_audio_de_test_036.wav
-37	schneit es in kanada	weather/find	de/test/xsid_audio_de_test_037.wav
-38	Was wird die Höchsttemperatur heute?	weather/find	de/test/xsid_audio_de_test_038.wav
-39	Wird es heute Nacht genug schneien, um das Reisen gefährlich zu machen?	weather/find	de/test/xsid_audio_de_test_039.wav
-40	Zeige alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_040.wav
-41	Lösche alle Erinnerungen	reminder/cancel_reminder	de/test/xsid_audio_de_test_041.wav
-42	brauche ich morgen eine Jacke?	weather/find	de/test/xsid_audio_de_test_042.wav
-43	Wie viel Zeit bleibt beim Wecker übrig	alarm/time_left_on_alarm	de/test/xsid_audio_de_test_043.wav
-44	Pausiere den Alarm	alarm/snooze_alarm	de/test/xsid_audio_de_test_044.wav
-45	Zeige alle Wecker an	alarm/show_alarms	de/test/xsid_audio_de_test_045.wav
-46	Wie ist das Wetter in Yellowstone?	weather/find	de/test/xsid_audio_de_test_046.wav
-47	wie ist das Wetter heute?	weather/find	de/test/xsid_audio_de_test_047.wav
-48	Lösche meine Erinnerung um morgen Patrick von der Schule abzuholen	reminder/cancel_reminder	de/test/xsid_audio_de_test_048.wav
-49	Erinnere mich morgen zu dieser Zeit einen Arzttermin zu vereinbaren	reminder/set_reminder	de/test/xsid_audio_de_test_049.wav
-50	Erinnere mich, die Miete abzugeben	reminder/set_reminder	de/test/xsid_audio_de_test_050.wav
-51	wann wir es aufhören zu regnen?	weather/find	de/test/xsid_audio_de_test_051.wav
-52	Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_052.wav
-53	Erinnere mich Stephanie am Dienstag anzurufen	reminder/set_reminder	de/test/xsid_audio_de_test_053.wav
-54	zeige mir alle meine Weckzeiten	alarm/show_alarms	de/test/xsid_audio_de_test_054.wav
-55	Wie heiß wird es heute?	weather/find	de/test/xsid_audio_de_test_055.wav
-56	Setze einen Wecker für 17 Uhr heute Abend	alarm/set_alarm	de/test/xsid_audio_de_test_056.wav
-57	erinnere mich daran, am 21. August um 15 Uhr zum Arzt zu gehen	reminder/set_reminder	de/test/xsid_audio_de_test_057.wav
-58	storniere meine wiederholte Erinnerung, täglich um 7 Uhr Medikamente einzunehmen	reminder/cancel_reminder	de/test/xsid_audio_de_test_058.wav
-59	Wann zeigt die Wettervorhersage den nächsten Regen an?	weather/find	de/test/xsid_audio_de_test_059.wav
-60	Wann ist mein Wecker für morgen früh eingestellt?	alarm/show_alarms	de/test/xsid_audio_de_test_060.wav
-61	wird es heute schneien	weather/find	de/test/xsid_audio_de_test_061.wav
-62	Schalte meinen Wecker aus.	alarm/cancel_alarm	de/test/xsid_audio_de_test_062.wav
-63	Lösche alle Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_063.wav
-64	erinnere mich Lebensmittel zu kaufen	reminder/set_reminder	de/test/xsid_audio_de_test_064.wav
-65	Ich brauche einen Wecker für 9 Uhr früh Frühstück	alarm/set_alarm	de/test/xsid_audio_de_test_065.wav
-66	Erstelle eine Erinnerung um the Colts zu schauen eine Stunde bevor das Spiel beginnt	reminder/set_reminder	de/test/xsid_audio_de_test_066.wav
-67	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_067.wav
-68	Lösche meine dritte Erinnerung von dieser Liste	reminder/cancel_reminder	de/test/xsid_audio_de_test_068.wav
-69	setze den Wecker auf 6 Uhr früh	alarm/set_alarm	de/test/xsid_audio_de_test_069.wav
-70	Setze diesen Wecker zurück und starte um 2 Uhr nachmittags	alarm/cancel_alarm	de/test/xsid_audio_de_test_070.wav
-71	Wird es schneien?	weather/find	de/test/xsid_audio_de_test_071.wav
-72	Erinnere mich, die Miete zu zahlen.	reminder/set_reminder	de/test/xsid_audio_de_test_072.wav
-73	was ist das Tief für morgen	weather/find	de/test/xsid_audio_de_test_073.wav
-74	Wird es heute sonnig?	weather/find	de/test/xsid_audio_de_test_074.wav
-75	Wie viele Erinnerungen habe ich heute?	reminder/show_reminders	de/test/xsid_audio_de_test_075.wav
-76	Was sind meine Erinnerungen für morgen?	reminder/show_reminders	de/test/xsid_audio_de_test_076.wav
-77	Lösche alle meine Erinnerungen.	reminder/cancel_reminder	de/test/xsid_audio_de_test_077.wav
-78	Erstelle einen Wecker für morgen 6 Uhr morgens	alarm/set_alarm	de/test/xsid_audio_de_test_078.wav
-79	Stelle den Wecker für 30 Minuten	alarm/set_alarm	de/test/xsid_audio_de_test_079.wav
-80	Erstelle einen Wecker für jetzt in einer Stunde.	alarm/set_alarm	de/test/xsid_audio_de_test_080.wav
-81	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_081.wav
-82	Wetter Update Los Angeles	weather/find	de/test/xsid_audio_de_test_082.wav
-83	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_083.wav
-84	Wie viele Erinnerungen habe ich heute?	reminder/show_reminders	de/test/xsid_audio_de_test_084.wav
-85	Erinnere mich Küchenpapier im Geschäft morgen zu kaufen	reminder/set_reminder	de/test/xsid_audio_de_test_085.wav
-86	zeige mir alle meine Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_086.wav
-87	setze den Wecker auf 6 Uhr früh	alarm/set_alarm	de/test/xsid_audio_de_test_087.wav
-88	wird es morgen schneien	weather/find	de/test/xsid_audio_de_test_088.wav
-89	lösche meinen Wecker von morgen früh	alarm/cancel_alarm	de/test/xsid_audio_de_test_089.wav
-90	Stelle den Wecker nur auf Montags Mittag ein.	alarm/set_alarm	de/test/xsid_audio_de_test_090.wav
-91	Wie heiß wird es heute?	weather/find	de/test/xsid_audio_de_test_091.wav
-92	Erinnere mich, den Wecker für den Morgen einzustellen	reminder/set_reminder	de/test/xsid_audio_de_test_092.wav
-93	entferne alle Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_093.wav
-94	zeige meine Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_094.wav
-95	Alarm verwerfen	alarm/cancel_alarm	de/test/xsid_audio_de_test_095.wav
-96	Wie ist die Temperatur heute?	weather/find	de/test/xsid_audio_de_test_096.wav
-97	Alarm verwerfen	alarm/cancel_alarm	de/test/xsid_audio_de_test_097.wav
-98	zeige alle Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_098.wav
-99	Stelle einen Wecker für alle 30 Minuten ein	alarm/set_alarm	de/test/xsid_audio_de_test_099.wav
-100	Wie wird die Temperatur heute?	weather/find	de/test/xsid_audio_de_test_100.wav
-101	Wird es heute heiß?	weather/find	de/test/xsid_audio_de_test_101.wav
-102	Wird es morgen regnen?	weather/find	de/test/xsid_audio_de_test_102.wav
-103	Lösche den nächsten Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_103.wav
-104	Erinnere mich heute zum Supermarkt zu gehen	reminder/set_reminder	de/test/xsid_audio_de_test_104.wav
-105	lösche meine Erinnerungen für nächste Woche	reminder/cancel_reminder	de/test/xsid_audio_de_test_105.wav
-106	Erinnere mich meinen Hund zu groomer zu bringen am Dienstag um 3 Uhr nachmittags	reminder/set_reminder	de/test/xsid_audio_de_test_106.wav
-107	Erinnere mich für Jen die Blumen abzuholen für unseren Jahrestag am 28.	reminder/set_reminder	de/test/xsid_audio_de_test_107.wav
-108	wie ist das Wetter heute?	weather/find	de/test/xsid_audio_de_test_108.wav
-109	Erinnere mich einen Arzttermin morgen zu vereinbaren.	reminder/set_reminder	de/test/xsid_audio_de_test_109.wav
-110	schalte alle Wecker aus	alarm/cancel_alarm	de/test/xsid_audio_de_test_110.wav
-111	Soll ich einen Regenmantel mitbringen?	weather/find	de/test/xsid_audio_de_test_111.wav
-112	Was ist die extreme Wettervorhersage?	weather/find	de/test/xsid_audio_de_test_112.wav
-113	Erinnere mich an den Arzttermin nächste Woche	reminder/set_reminder	de/test/xsid_audio_de_test_113.wav
-114	Erstelle eine Erinnerung zum Geschäft zu geben um 8 Uhr morgens	reminder/set_reminder	de/test/xsid_audio_de_test_114.wav
-115	Erstelle Erinnerung, um die Sachen von der chemischen Reinigung abzuholen.	reminder/set_reminder	de/test/xsid_audio_de_test_115.wav
-116	wann wird es abkühlen	weather/find	de/test/xsid_audio_de_test_116.wav
-117	wird es diese Woche regnen	weather/find	de/test/xsid_audio_de_test_117.wav
-118	entferne alle Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_118.wav
-119	Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_119.wav
-120	Zeig mir meine Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_120.wav
-121	Für welche Zeit habe ich den Wecker eingestellt?	alarm/show_alarms	de/test/xsid_audio_de_test_121.wav
-122	Wird es am Samstag regnen?	weather/find	de/test/xsid_audio_de_test_122.wav
-123	wie warm wird es heute?	weather/find	de/test/xsid_audio_de_test_123.wav
-124	Setze alle Wecker zurück	alarm/cancel_alarm	de/test/xsid_audio_de_test_124.wav
-125	Wetter in Tahoe dieses Wochenende?	weather/find	de/test/xsid_audio_de_test_125.wav
-126	Brauche ich heute einen Mantel?	weather/find	de/test/xsid_audio_de_test_126.wav
-127	wann wir es aufhören zu regnen?	weather/find	de/test/xsid_audio_de_test_127.wav
-128	Setze eine Erinnerung meine Schule am Montag um 4 Uhr nachmittags anzurufen	reminder/set_reminder	de/test/xsid_audio_de_test_128.wav
-129	Schalte meinen Wecker aus.	alarm/cancel_alarm	de/test/xsid_audio_de_test_129.wav
-130	Wie kalt wird es heute Nacht?	weather/find	de/test/xsid_audio_de_test_130.wav
-131	Stelle den Wecker auf 7:00 Uhr morgen.	alarm/set_alarm	de/test/xsid_audio_de_test_131.wav
-132	Lösche meine Erinnerung, Rob abzuholen	reminder/cancel_reminder	de/test/xsid_audio_de_test_132.wav
-133	Erstelle eine Erinnerung für morgen um Milch zu kaufen.	reminder/set_reminder	de/test/xsid_audio_de_test_133.wav
-134	setze den Wecker auf 6 Uhr abends	alarm/set_alarm	de/test/xsid_audio_de_test_134.wav
-135	plane täglich einen Alarm um 7:30 Uhr abends ein, bis er gelöscht wird	alarm/set_alarm	de/test/xsid_audio_de_test_135.wav
-136	erinnere mich daran, einen Alarm für Ups einzustellen	reminder/set_reminder	de/test/xsid_audio_de_test_136.wav
-137	lösche meine Erinnerung	reminder/cancel_reminder	de/test/xsid_audio_de_test_137.wav
-138	Wird es heute schneien?	weather/find	de/test/xsid_audio_de_test_138.wav
-139	Zeige alle Wecker an	alarm/show_alarms	de/test/xsid_audio_de_test_139.wav
-140	Zeige alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_140.wav
-141	wie viel Zeit bleibt auf meinem Wecker	alarm/time_left_on_alarm	de/test/xsid_audio_de_test_141.wav
-142	Wecker für 2 Stunden stellen	alarm/set_alarm	de/test/xsid_audio_de_test_142.wav
-143	Erinnere mich, nach der Arbeit Brot zu holen	reminder/set_reminder	de/test/xsid_audio_de_test_143.wav
-144	Wird es heute regnen?	weather/find	de/test/xsid_audio_de_test_144.wav
-145	lese die heutige Wettervorhersage	weather/find	de/test/xsid_audio_de_test_145.wav
-146	Für welche Zeit ist mein Wecker gestellt?	alarm/show_alarms	de/test/xsid_audio_de_test_146.wav
-147	morgen um 4 Uhr, erinnere mich zum Einkaufszentrum zu gehen	reminder/set_reminder	de/test/xsid_audio_de_test_147.wav
-148	Sollte ich heute einen Regenschirm mitbringen?	weather/find	de/test/xsid_audio_de_test_148.wav
-149	Zeige meine Erinnerung	reminder/show_reminders	de/test/xsid_audio_de_test_149.wav
-150	Zeige alle meine Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_150.wav
-151	Erstelle eine Erinnerung für Hundefutter am Montag.	reminder/set_reminder	de/test/xsid_audio_de_test_151.wav
-152	Erstelle Erinnerung "Sub yoga class Tuesday night at Bala" für morgen	reminder/set_reminder	de/test/xsid_audio_de_test_152.wav
-153	Lösche alle Erinnerungen von heute	reminder/cancel_reminder	de/test/xsid_audio_de_test_153.wav
-154	Wie wird das Wetter in New York diese Woche	weather/find	de/test/xsid_audio_de_test_154.wav
-155	Erinnere mich an eine Doktorvisite am Donnerstag um 12 Uhr mittag	reminder/set_reminder	de/test/xsid_audio_de_test_155.wav
-156	stelle einen Wecker auf 6:50 Uhr abends ein	alarm/set_alarm	de/test/xsid_audio_de_test_156.wav
-157	Wird es heute schneien?	weather/find	de/test/xsid_audio_de_test_157.wav
-158	Welche Wecker sind eingestellt?	alarm/show_alarms	de/test/xsid_audio_de_test_158.wav
-159	Stelle einen Erinnerungsalarm für den 7. Oktober ein	reminder/set_reminder	de/test/xsid_audio_de_test_159.wav
-160	Wird es heute schneien?	weather/find	de/test/xsid_audio_de_test_160.wav
-161	Schlummeralarm für 15 Minuten	alarm/snooze_alarm	de/test/xsid_audio_de_test_161.wav
-162	Wie viel Schnee sagen sie voraus?	weather/find	de/test/xsid_audio_de_test_162.wav
-163	ist es draußen heiß	weather/find	de/test/xsid_audio_de_test_163.wav
-164	Wie wird die Temperatur heute?	weather/find	de/test/xsid_audio_de_test_164.wav
-165	wie wird das Wetter morgen in Dallas	weather/find	de/test/xsid_audio_de_test_165.wav
-166	Zeige mir alle meine Erinnerungen von heute	reminder/show_reminders	de/test/xsid_audio_de_test_166.wav
-167	Erstelle eine wöchentliche Erinnerung für Lebensmittel.	reminder/set_reminder	de/test/xsid_audio_de_test_167.wav
-168	Wetter	weather/find	de/test/xsid_audio_de_test_168.wav
-169	Soll es heute den ganzen Tag über regnen?	weather/find	de/test/xsid_audio_de_test_169.wav
-170	wird es morgen regnen	weather/find	de/test/xsid_audio_de_test_170.wav
-171	Erinnere mich die Arbeitsemails heute Abend zu beantworten	reminder/set_reminder	de/test/xsid_audio_de_test_171.wav
-172	Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_172.wav
-173	Lösche meine Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_173.wav
-174	Kann ich heute kurze Hosen tragen?	weather/find	de/test/xsid_audio_de_test_174.wav
-175	Wird es morgen regnen?	weather/find	de/test/xsid_audio_de_test_175.wav
-176	stelle Wecker auf 10 Uhr früh	alarm/set_alarm	de/test/xsid_audio_de_test_176.wav
-177	Wird es am Wochenende regnen?	weather/find	de/test/xsid_audio_de_test_177.wav
-178	Zeige alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_178.wav
-179	Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_179.wav
-180	schalte alle Wecker aus	alarm/cancel_alarm	de/test/xsid_audio_de_test_180.wav
-181	zeige alle voreingestellten Wecker an	alarm/show_alarms	de/test/xsid_audio_de_test_181.wav
-182	Stelle einen Wecker jede Minute für 20 Minuten.	alarm/set_alarm	de/test/xsid_audio_de_test_182.wav
-183	Was sind meine Erinnerungen?	reminder/show_reminders	de/test/xsid_audio_de_test_183.wav
-184	lösche den Wecker für morgen	alarm/cancel_alarm	de/test/xsid_audio_de_test_184.wav
-185	Benötige ich heute einen Regenschirm?	weather/find	de/test/xsid_audio_de_test_185.wav
-186	Soll es heute noch schneien?	weather/find	de/test/xsid_audio_de_test_186.wav
-187	Erinnere mich meine Mutter heute Abend anzurufen	reminder/set_reminder	de/test/xsid_audio_de_test_187.wav
-188	wird es heute regnen?	weather/find	de/test/xsid_audio_de_test_188.wav
-189	Wird es am Samstag regnen?	weather/find	de/test/xsid_audio_de_test_189.wav
-190	Wirst du den Wecker 20 Minuten lang jede Minute einstellen?	alarm/set_alarm	de/test/xsid_audio_de_test_190.wav
-191	Tropische Stürme in der Karibik	weather/find	de/test/xsid_audio_de_test_191.wav
-192	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_192.wav
-193	Erstelle einen Wecker für alle neun Minuten	alarm/set_alarm	de/test/xsid_audio_de_test_193.wav
-194	Lösche die letzten zwei Erinnerungen auf meiner Liste	reminder/cancel_reminder	de/test/xsid_audio_de_test_194.wav
-195	wie ist das Wetter heute?	weather/find	de/test/xsid_audio_de_test_195.wav
-196	schalte meinen Wecker ein	alarm/set_alarm	de/test/xsid_audio_de_test_196.wav
-197	Was ist die Luftfeuchtigkeit heute?	weather/find	de/test/xsid_audio_de_test_197.wav
-198	erinnere mich daran, einen Alarm für Ups einzustellen	reminder/set_reminder	de/test/xsid_audio_de_test_198.wav
-199	Wird es schneien dieses Wochenende?	weather/find	de/test/xsid_audio_de_test_199.wav
-200	Wie heiß wird es heute?	weather/find	de/test/xsid_audio_de_test_200.wav
-201	Auf welche Zeit is mein Wecker gestellt	alarm/show_alarms	de/test/xsid_audio_de_test_201.wav
-202	wie ist das Wetter heute?	weather/find	de/test/xsid_audio_de_test_202.wav
-203	Wird es morgen regnen?	weather/find	de/test/xsid_audio_de_test_203.wav
-204	Lösche meinen Alarm von 5:15 Uhr früh am Dienstag	alarm/cancel_alarm	de/test/xsid_audio_de_test_204.wav
-205	Erinnerung für das Spiel heute Abend löschen	reminder/cancel_reminder	de/test/xsid_audio_de_test_205.wav
-206	Wecker für 3 Uhr morgens stellen	alarm/set_alarm	de/test/xsid_audio_de_test_206.wav
-207	lösche alle Wecker für Samstag	alarm/cancel_alarm	de/test/xsid_audio_de_test_207.wav
-208	Ich brauche eine Erinnerung um Lisa abzuholen	reminder/set_reminder	de/test/xsid_audio_de_test_208.wav
-209	Was wird das Hoch heute sein?	weather/find	de/test/xsid_audio_de_test_209.wav
-210	Wird es in Grindstone heute bewölkt?	weather/find	de/test/xsid_audio_de_test_210.wav
-211	Erinnere mich später	reminder/set_reminder	de/test/xsid_audio_de_test_211.wav
-212	wie ist das Wetter in Frankreich heute	weather/find	de/test/xsid_audio_de_test_212.wav
-213	Wird es für die Party am Samstag sonnig?	weather/find	de/test/xsid_audio_de_test_213.wav
-214	Wird es morgen regnen?	weather/find	de/test/xsid_audio_de_test_214.wav
-215	Kann ich heute kurze Hosen tragen?	weather/find	de/test/xsid_audio_de_test_215.wav
-216	Zeige meine Erinnerung	reminder/show_reminders	de/test/xsid_audio_de_test_216.wav
-217	was is die durchschnittliche Wettervorhersage für September	weather/find	de/test/xsid_audio_de_test_217.wav
-218	Ist es heute kalt?	weather/find	de/test/xsid_audio_de_test_218.wav
-219	Lösche alle Erinnerungen	reminder/cancel_reminder	de/test/xsid_audio_de_test_219.wav
-220	ist es heiß?	weather/find	de/test/xsid_audio_de_test_220.wav
-221	Erstelle einen Wecker für Wochenenden um 14 Uhr am Nachmittag	alarm/set_alarm	de/test/xsid_audio_de_test_221.wav
-222	Stelle den Wecker auf 2:00 Uhr	alarm/set_alarm	de/test/xsid_audio_de_test_222.wav
-223	Was ist die Luftfeuchtigkeit heute?	weather/find	de/test/xsid_audio_de_test_223.wav
-224	zeige mir alle meine Weckzeiten	alarm/show_alarms	de/test/xsid_audio_de_test_224.wav
-225	Zeige mir alle meine Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_225.wav
-226	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_226.wav
-227	Gibt es eine Sturmwarnung für meinen Standort?	weather/find	de/test/xsid_audio_de_test_227.wav
-228	wie wird das Wetter heute	weather/find	de/test/xsid_audio_de_test_228.wav
-229	Lösche die letzte Erinnerung	reminder/cancel_reminder	de/test/xsid_audio_de_test_229.wav
-230	Was is die verbleibende Zeit bis zum Alarm	alarm/time_left_on_alarm	de/test/xsid_audio_de_test_230.wav
-231	Lösche alle meine Wecker für Sonntag.	alarm/cancel_alarm	de/test/xsid_audio_de_test_231.wav
-232	Wie heiß wird es heute?	weather/find	de/test/xsid_audio_de_test_232.wav
-233	Ich möchte, dass du für morgen früh um 8:45 Uhr einen neuen Alarm einstellst	alarm/set_alarm	de/test/xsid_audio_de_test_233.wav
-234	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_234.wav
-235	Wird es heute schneien?	weather/find	de/test/xsid_audio_de_test_235.wav
-236	Erinnere mich Eis zu kaufen	reminder/set_reminder	de/test/xsid_audio_de_test_236.wav
-237	Zeige alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_237.wav
-238	zeige alle Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_238.wav
-239	Wie ist das Wetter in San Francisco?	weather/find	de/test/xsid_audio_de_test_239.wav
-240	Lösche alle Erinnerungen	reminder/cancel_reminder	de/test/xsid_audio_de_test_240.wav
-241	Lösche die Erinnerung für das Konzert	reminder/cancel_reminder	de/test/xsid_audio_de_test_241.wav
-242	Lösche den Alarm für morgen früh	alarm/cancel_alarm	de/test/xsid_audio_de_test_242.wav
-243	wird es diese Woche regnen	weather/find	de/test/xsid_audio_de_test_243.wav
-244	Wie ist das Wetter am Mittwoch zum Golfen?	weather/find	de/test/xsid_audio_de_test_244.wav
-245	zeige alle Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_245.wav
-246	Schalte alle Wecker für morgen ab	alarm/cancel_alarm	de/test/xsid_audio_de_test_246.wav
-247	Stelle den Wecker auf 5 Uhr heute Abend	alarm/set_alarm	de/test/xsid_audio_de_test_247.wav
-248	setze den Wecker für morgen um 7	alarm/set_alarm	de/test/xsid_audio_de_test_248.wav
-249	Wird morgen die Sonne scheinen?	weather/find	de/test/xsid_audio_de_test_249.wav
-250	wie heiß wird es heute	weather/find	de/test/xsid_audio_de_test_250.wav
-251	Gib 0 Sterne an Halo: Ghosts of Onyx	RateBook	de/test/xsid_audio_de_test_251.wav
-252	Spiele Musik von Joy Nilo .	PlayMusic	de/test/xsid_audio_de_test_252.wav
-253	Finde das Videospiel 20 Hours in America .	SearchCreativeWork	de/test/xsid_audio_de_test_253.wav
-254	Spiele meine inventive-Wiedergabeliste	PlayMusic	de/test/xsid_audio_de_test_254.wav
-255	Buche einen Platz für 9 in Thurmont	BookRestaurant	de/test/xsid_audio_de_test_255.wav
-256	Füge dieses Lied zu Dortys 80er-Party-Playliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_256.wav
-257	Spiele das neueste Lied auf Last Fm von Eddie Vinson .	PlayMusic	de/test/xsid_audio_de_test_257.wav
-258	Kontrolliere die Wettervorhersage für Nebraska .	weather/find	de/test/xsid_audio_de_test_258.wav
-259	Gibt es jetzt einen Sturm in NC ?	weather/find	de/test/xsid_audio_de_test_259.wav
-260	Ich möchte eine EP aus dem Jahr 1998 hören .	PlayMusic	de/test/xsid_audio_de_test_260.wav
-261	Ich brauche die Uhrzeit von A Yiddish World Remembered im Dipsomkino	SearchScreeningEvent	de/test/xsid_audio_de_test_261.wav
-262	Gibe dem aktuellen Lehrbuch 1 aus 6 Punkten	RateBook	de/test/xsid_audio_de_test_262.wav
-263	Füge das Matt Murphy Lied zur Flow Español-Wiedergabeliste hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_263.wav
-264	Ich möchte am 20.05.2025 einen Sundanesischen Gastropub in der Nähe von Texas für 3 Personen buchen .	BookRestaurant	de/test/xsid_audio_de_test_264.wav
-265	Findest du die TV-Serie The Approach	SearchCreativeWork	de/test/xsid_audio_de_test_265.wav
-266	Gib dieser Chronik eine Bewertung von 2.	RateBook	de/test/xsid_audio_de_test_266.wav
-267	Gib The American Scene 2 von 6 Sternen	RateBook	de/test/xsid_audio_de_test_267.wav
-268	Füge emilie autumn zu meiner Nação Reggae-Wiedergabeliste hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_268.wav
-269	Ich möchte ein jüdisches Restaurant in Gambia buchen .	BookRestaurant	de/test/xsid_audio_de_test_269.wav
-270	reserviere einen Tisch im Fried chicken Restaurant	BookRestaurant	de/test/xsid_audio_de_test_270.wav
-271	Füge das Lied we have a theme meiner House Afterwork-Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_271.wav
-272	Wie wird das Wetter nicht unweit von hier am neunzehnten Oktober 2026?	weather/find	de/test/xsid_audio_de_test_272.wav
-273	Wetter in Walden Russland am 12.12.2018	weather/find	de/test/xsid_audio_de_test_273.wav
-274	Ich möchte ein Restaurant für mich und meinen Schwiegervater in Buckner in einem Jahr buchen .	BookRestaurant	de/test/xsid_audio_de_test_274.wav
-275	Bewerte dieses Buch mit 1	RateBook	de/test/xsid_audio_de_test_275.wav
-276	füge diesen Artisten zu meiner spotlight on country 2016-Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_276.wav
-277	Kannst du das Bil Epic Conditions finden ?	SearchCreativeWork	de/test/xsid_audio_de_test_277.wav
-278	Spiele Rich Sex auf Iheart	PlayMusic	de/test/xsid_audio_de_test_278.wav
-279	Spielt Bartok der Bezaubernde um sieben Uhr früh?	SearchScreeningEvent	de/test/xsid_audio_de_test_279.wav
-280	Spiele etwas auf Zvooq	PlayMusic	de/test/xsid_audio_de_test_280.wav
-281	Lass mich Christ Night Songs hören	PlayMusic	de/test/xsid_audio_de_test_281.wav
-282	spiele das Album von Jill Sobule	PlayMusic	de/test/xsid_audio_de_test_282.wav
-283	Gib 4 Sterne an The Broken Window	RateBook	de/test/xsid_audio_de_test_283.wav
-284	Wie wird die Vorhersage für 6 Uhr morgens im Tatra-Nationalpark	weather/find	de/test/xsid_audio_de_test_284.wav
-285	Bitte buche einen Tisch in einem Bistro das lorna doone serviert .	BookRestaurant	de/test/xsid_audio_de_test_285.wav
-286	Bewerte die Serie The Mystery of the Tolling Bell mit 4 Sternen .	RateBook	de/test/xsid_audio_de_test_286.wav
-287	Verwende Groove Shark um Musik abzuspielen	PlayMusic	de/test/xsid_audio_de_test_287.wav
-288	Wann spielt Snowbound im nahesten Kino .	SearchScreeningEvent	de/test/xsid_audio_de_test_288.wav
-289	Bitte öffne Zvooq	PlayMusic	de/test/xsid_audio_de_test_289.wav
-290	Buche einen Platz für 1 Person im Town of Ramsgate in Merit	BookRestaurant	de/test/xsid_audio_de_test_290.wav
-291	Wird I Think I Do um 19 Uhr spielexsn ?	SearchScreeningEvent	de/test/xsid_audio_de_test_291.wav
-292	wird Custer-Nationalpark um sieben Uhr abends kühler sein	weather/find	de/test/xsid_audio_de_test_292.wav
-293	Ich möchte etwas auf Youtube hören	PlayMusic	de/test/xsid_audio_de_test_293.wav
-294	Suche nach dem Spiel Difficult Loves	SearchCreativeWork	de/test/xsid_audio_de_test_294.wav
-295	Wie ist die Wettervorhersage für den Bothe-Napa Valley State Park um den 20. Februar ?	weather/find	de/test/xsid_audio_de_test_295.wav
-296	Zeige mir die Vorstellungszeiten des Films The Great Gildersleeve in der Nähe des Kinos	SearchScreeningEvent	de/test/xsid_audio_de_test_296.wav
-297	Wie ist die Wettervorhersage für Gibsland	weather/find	de/test/xsid_audio_de_test_297.wav
-298	Kann ich die Zeiten für Filme in der Nachbarschaft bekommen	SearchScreeningEvent	de/test/xsid_audio_de_test_298.wav
-299	Bewerte Soul Music mit 0.	RateBook	de/test/xsid_audio_de_test_299.wav
-300	Reserviere für fünf Personen in einer Tatar Taverne in Sargents	BookRestaurant	de/test/xsid_audio_de_test_300.wav
-301	Spiele All Things Must Pass .	PlayMusic	de/test/xsid_audio_de_test_301.wav
-302	Wird es in einer Stunde ab jetzt in Südkorea regnen?	weather/find	de/test/xsid_audio_de_test_302.wav
-303	Buche einen Platz für 4 Personen in Oklahoma im South Street Diner	BookRestaurant	de/test/xsid_audio_de_test_303.wav
-304	Spiele Musik von Netflix .	PlayMusic	de/test/xsid_audio_de_test_304.wav
-305	Ich möchte Shattered Image sehen.	SearchScreeningEvent	de/test/xsid_audio_de_test_305.wav
-306	Suche nach The Sound of One Hand Clapping	SearchCreativeWork	de/test/xsid_audio_de_test_306.wav
-307	Suchen nach dem Album Wolves Within	SearchCreativeWork	de/test/xsid_audio_de_test_307.wav
-308	spielt We Are Northern Lights in einem Kino	SearchScreeningEvent	de/test/xsid_audio_de_test_308.wav
-309	Füge our little corner of the world music von den Gilmore girls zu meiner Wiedergabeliste The Funny Thing About Football Is hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_309.wav
-310	Wie ist die Vorhersage für wärmeres Wetter im Southford Falls State Park	weather/find	de/test/xsid_audio_de_test_310.wav
-311	Bitte reserviere einen Tisch in einer Pizzeria mit Parkplatz in Ghana .	BookRestaurant	de/test/xsid_audio_de_test_311.wav
-312	Ich möchte einen Soundtrack aus den siebziger Jahren hören.	PlayMusic	de/test/xsid_audio_de_test_312.wav
-313	Wetter in zwei Stunden in Usbekistan	weather/find	de/test/xsid_audio_de_test_313.wav
-314	Bitte finde den Film Journal of the British Astronomical Association.	SearchCreativeWork	de/test/xsid_audio_de_test_314.wav
-315	Buche für 8 Personen in Wardville , Kansas	BookRestaurant	de/test/xsid_audio_de_test_315.wav
-316	Wie wird das Wetter weit entfernt von hier ?	weather/find	de/test/xsid_audio_de_test_316.wav
-317	Fügen das neueste Lied von Richard McNamara zur Just Smile-Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_317.wav
-318	Wie kalt wird es hier in 1 Sekunde sein	weather/find	de/test/xsid_audio_de_test_318.wav
-319	Auf der Suche nach einem Gemälde mit dem Titel With You	SearchCreativeWork	de/test/xsid_audio_de_test_319.wav
-320	Finde kreative Arbeiten Deadly Weapons	SearchCreativeWork	de/test/xsid_audio_de_test_320.wav
-321	Wie wird das Wetter im November in Brookneal ?	weather/find	de/test/xsid_audio_de_test_321.wav
-322	Buche einen Tisch in der Taverne für Nudeln	BookRestaurant	de/test/xsid_audio_de_test_322.wav
-323	Was ist die Prognose für Costa Rica	weather/find	de/test/xsid_audio_de_test_323.wav
-324	Spielen The Two Gladiators	SearchScreeningEvent	de/test/xsid_audio_de_test_324.wav
-325	welche Filme spielen in den Star Kinos .	SearchScreeningEvent	de/test/xsid_audio_de_test_325.wav
-326	Kannst du bitte die Harry Hood Saga finden ?	SearchCreativeWork	de/test/xsid_audio_de_test_326.wav
-327	Füge dieses Lied meiner Sleepify-Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_327.wav
-328	Spielt Any Which Way You Can in 15 Sekunden	SearchScreeningEvent	de/test/xsid_audio_de_test_328.wav
-329	Spiele Musik von E-type .	PlayMusic	de/test/xsid_audio_de_test_329.wav
-330	Gib dem aktuellen Buch einen Stern	RateBook	de/test/xsid_audio_de_test_330.wav
-331	Spiele Another Passenger von Louis Nelson Delisle .	PlayMusic	de/test/xsid_audio_de_test_331.wav
-332	Wo finde ich die Filmvorstellungspläne	SearchScreeningEvent	de/test/xsid_audio_de_test_332.wav
-333	Was ist die Wetterprognose für den 26. September in Emerado Saint Pierre und Miquelon	weather/find	de/test/xsid_audio_de_test_333.wav
-334	Lass uns in 17 Sekunden in der Nähe von Oakfield bei Ted Peters Famous Smoked Fish essen	BookRestaurant	de/test/xsid_audio_de_test_334.wav
-335	Hol mir den Trailer von Good Morning Sunshine	SearchCreativeWork	de/test/xsid_audio_de_test_335.wav
-336	Ich möchte eine Brasserie für 3 Personen auf den Niederländischen Antillen buchen .	BookRestaurant	de/test/xsid_audio_de_test_336.wav
-337	bewerte dieses aktuelle Album mit 0 Sternen	RateBook	de/test/xsid_audio_de_test_337.wav
-338	Buche einen Platz in Monaco für den Yankee Doodle Coffee Shop	BookRestaurant	de/test/xsid_audio_de_test_338.wav
-339	Füge den Künstler zur Wiedergabeliste der politischen Punks hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_339.wav
-340	Wird es in vier Monaten in Suwanee AK kälter	weather/find	de/test/xsid_audio_de_test_340.wav
-341	füge Muzika za decu meiner Crash Course-Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_341.wav
-342	Kannst du die Molecular Oncology Saga nachschlagen ?	SearchCreativeWork	de/test/xsid_audio_de_test_342.wav
-343	Ich möchte ein Restaurant für sechs Personen in Wagstaff AK buchen.	BookRestaurant	de/test/xsid_audio_de_test_343.wav
-344	Spiele Symphoniemusik von David Lindley .	PlayMusic	de/test/xsid_audio_de_test_344.wav
-345	Bitte finde die TV-Serie Now We Are Married .	SearchCreativeWork	de/test/xsid_audio_de_test_345.wav
-346	I möchte Outcast sehen .	SearchScreeningEvent	de/test/xsid_audio_de_test_346.wav
-347	füge den aktuellen Song zu meiner Das ist Tschaikowski-Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_347.wav
-348	Spiele This is Miles Davis on Lastfm .	PlayMusic	de/test/xsid_audio_de_test_348.wav
-349	buche den besten Tisch in Tanzania für 5 People für ein Abendessen	BookRestaurant	de/test/xsid_audio_de_test_349.wav
-350	Lass uns good Mohammad Male on Vimeo hören .	PlayMusic	de/test/xsid_audio_de_test_350.wav
-351	Setze den Track von Vandemataram Srinivas auf HipHop Hot 50 .	AddToPlaylist	de/test/xsid_audio_de_test_351.wav
-352	Hol mir das Lied von Secret South .	SearchCreativeWork	de/test/xsid_audio_de_test_352.wav
-353	Songs aus den Neunzigern auf Zvooq	PlayMusic	de/test/xsid_audio_de_test_353.wav
-354	Was ist die Wetterprognose in Admire in TX ab siebzehn	weather/find	de/test/xsid_audio_de_test_354.wav
-355	Spiele etwas auf Last Fm	PlayMusic	de/test/xsid_audio_de_test_355.wav
-356	Ich möchte das Porträt einer Dame im nächsten Kino sehen .	SearchScreeningEvent	de/test/xsid_audio_de_test_356.wav
-357	Bitte finde Phineas Redux .	SearchCreativeWork	de/test/xsid_audio_de_test_357.wav
-358	Füge die 40-cal Melodie zur Wäschewiedergabeliste hinzu .	AddToPlaylist	de/test/xsid_audio_de_test_358.wav
-359	Öffne iTunes und spiele Ben Burnley Ready To Die	PlayMusic	de/test/xsid_audio_de_test_359.wav
-360	Wie wird das Wetter am 5. Dezember am Denkmal von Lihula sein?	weather/find	de/test/xsid_audio_de_test_360.wav
-361	Zeige die Vorstellungszeiten von Sexy Dance 2 im nächsten Kino	SearchScreeningEvent	de/test/xsid_audio_de_test_361.wav
-362	Suche nach einem Song mit dem Titel Live at the Kings Center	SearchCreativeWork	de/test/xsid_audio_de_test_362.wav
-363	Wie ist das Wetter in Tyonek , New Jersey	weather/find	de/test/xsid_audio_de_test_363.wav
-364	Ich möchte das Tupelo Honey Cafe in New Jersey für fünf Personen buchen.	BookRestaurant	de/test/xsid_audio_de_test_364.wav
-365	Buche einen Platz für meine Nichten und mich in einem Teehaus	BookRestaurant	de/test/xsid_audio_de_test_365.wav
-366	Wird es am 16. Februar in den Niederlanden warm?	weather/find	de/test/xsid_audio_de_test_366.wav
-367	Ich möchte Jordan Rudess in die Divertido para niños-Wiedergabeliste aufnehmen.	AddToPlaylist	de/test/xsid_audio_de_test_367.wav
-368	Bewerte In the Company of Cheerful Ladies mit Null von 6	RateBook	de/test/xsid_audio_de_test_368.wav
-369	Buche mir eine Reservierung für das beste Bistro	BookRestaurant	de/test/xsid_audio_de_test_369.wav
-370	bewerte das aktuelle Lehrbuch mit 1 von 6 Punkten	RateBook	de/test/xsid_audio_de_test_370.wav
-371	Wie sind die Filmvorstellungszeiten?	SearchScreeningEvent	de/test/xsid_audio_de_test_371.wav
-372	Wie wird das Wetter in Ohio?	weather/find	de/test/xsid_audio_de_test_372.wav
-373	Füge diesen Künstler zu Showstopper Being Mary Jane hinzu	AddToPlaylist	de/test/xsid_audio_de_test_373.wav
-374	Buche eine Reservierung für meine Babys und mich	BookRestaurant	de/test/xsid_audio_de_test_374.wav
-375	Wie wird das Wetter am 21. August 2035 im Sarygamyş Sanctuary sein?	weather/find	de/test/xsid_audio_de_test_375.wav
-376	Bewerte Ruth mit fünf von 6 Punkten .	RateBook	de/test/xsid_audio_de_test_376.wav
-377	Erinnerungen an die Anti-Japanische Guerilla-Chronik verdienen null von 6 Punkten für eine Bewertung.	RateBook	de/test/xsid_audio_de_test_377.wav
-378	Zeig mir die Filmvorstellungszeiten von Southern Theatres	SearchScreeningEvent	de/test/xsid_audio_de_test_378.wav
-379	Finde die Filmvorstellungszeiten in der Nähe	SearchScreeningEvent	de/test/xsid_audio_de_test_379.wav
-380	Füge dieses Album der spanischen Beat Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_380.wav
-381	Buche eine Reservierung für 6 Personen für eine kreolische Taverne in Montenegro	BookRestaurant	de/test/xsid_audio_de_test_381.wav
-382	Gib der Catedral-Serie vier Sterne .	RateBook	de/test/xsid_audio_de_test_382.wav
-383	Füge The Famous Flower of Serving-Men zu meiner abendlichen akustischen Wiedergabeliste hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_383.wav
-384	Zeigen Sie mir die Vorstellungszeiten nur für Animationsfilme bei ArcLight Hollywood	SearchScreeningEvent	de/test/xsid_audio_de_test_384.wav
-385	Bitte suche nach dem Gemälde mit dem Titel This Is the Night .	SearchCreativeWork	de/test/xsid_audio_de_test_385.wav
-386	Wie hoch wird die Luftfeuchtigkeit am aktuellen Standort um 15:19:29 Uhr sein ?	weather/find	de/test/xsid_audio_de_test_386.wav
-387	Ich möchte JLA Adventures: Trapped In Time sehen	SearchScreeningEvent	de/test/xsid_audio_de_test_387.wav
-388	Füge ein Derek Watkins Lied zu This Is Johnny Cash hinzu	AddToPlaylist	de/test/xsid_audio_de_test_388.wav
-389	Finde eine kreative Arbeit namens Fire in the Hole	SearchCreativeWork	de/test/xsid_audio_de_test_389.wav
-390	Buche einen Tisch in der Nähe von Pats College	BookRestaurant	de/test/xsid_audio_de_test_390.wav
-391	Ist Patrick Still Lives in den AMC Theatern zu sehen?	SearchScreeningEvent	de/test/xsid_audio_de_test_391.wav
-392	Ich möchte einen Joint in einem Spa buchen .	BookRestaurant	de/test/xsid_audio_de_test_392.wav
-393	Ich brauche irgendwo in Quarryville in 14 Stunden einen Tisch	BookRestaurant	de/test/xsid_audio_de_test_393.wav
-394	spiele etwas von Gary Lee Conner	PlayMusic	de/test/xsid_audio_de_test_394.wav
-395	zeige das nächste Kino, das Boykott zeigt	SearchScreeningEvent	de/test/xsid_audio_de_test_395.wav
-396	Bitte spiele meine ekstatische Wiedergabeliste.	PlayMusic	de/test/xsid_audio_de_test_396.wav
-397	Bitte suche nach dem Lied The Mad Magician .	SearchCreativeWork	de/test/xsid_audio_de_test_397.wav
-398	Überprüfe die Vorstellungszeiten für Bow Tie Cinemas .	SearchScreeningEvent	de/test/xsid_audio_de_test_398.wav
-399	Buche mir eine Reservierung für eine Gruppe von 3 Personen in einem Pub auf den Nördlichen Marianen	BookRestaurant	de/test/xsid_audio_de_test_399.wav
-400	Ich müsste die Werke von Rahim Shah zu meiner Infinite Indie Folk Playliste hinzufügen	AddToPlaylist	de/test/xsid_audio_de_test_400.wav
-401	Füge Jerry Callist, Jr zu meiner Te quiero Playliste hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_401.wav
-402	Wie viel kälter wird es im näheren Umkreis von Utah um ca. 3 Uhr morgens ?	weather/find	de/test/xsid_audio_de_test_402.wav
-403	Füge das Album zur Hipster Soul Playliste.	AddToPlaylist	de/test/xsid_audio_de_test_403.wav
-404	Ich möchte in einem Spezialitätenmarkt, der osteuropäisches Essen serviert, in 13 Stunden essen	BookRestaurant	de/test/xsid_audio_de_test_404.wav
-405	Spiele einen 60er Soundtrack	PlayMusic	de/test/xsid_audio_de_test_405.wav
-406	Gib dem Album einen Stern	RateBook	de/test/xsid_audio_de_test_406.wav
-407	Spiele die besten Songs von Bryan Maclean .	PlayMusic	de/test/xsid_audio_de_test_407.wav
-408	Was is die Wettervorhersage für Nicodemus und Umgebung?	weather/find	de/test/xsid_audio_de_test_408.wav
-409	Ich suche nach einem Spiel das Phinally Phamous heisst	SearchCreativeWork	de/test/xsid_audio_de_test_409.wav
-410	Gib Juneteenth eine Bewertung von 2 .	RateBook	de/test/xsid_audio_de_test_410.wav
-411	Gib Thialto the Marvellous null Sterne	RateBook	de/test/xsid_audio_de_test_411.wav
-412	Ich möchte Soundtrack Musik von Helena Iren Michaelsen auf Youtube hören	PlayMusic	de/test/xsid_audio_de_test_412.wav
-413	Bestelle eine Tisch am 20.01.2013 für 5 Personen im MH	BookRestaurant	de/test/xsid_audio_de_test_413.wav
-414	Kinoprogramm in der Nähe für animierte Filme	SearchScreeningEvent	de/test/xsid_audio_de_test_414.wav
-415	Füge Jack White zu meiner Playliste This is Shakira	AddToPlaylist	de/test/xsid_audio_de_test_415.wav
-416	Ich möchte in einem Restaurant für 5 Personen in Sri Lanka reservieren	BookRestaurant	de/test/xsid_audio_de_test_416.wav
-417	Bitte such nach der TV Show Episodi di The Blacklist	SearchCreativeWork	de/test/xsid_audio_de_test_417.wav
-418	Wie ist die Vorhersage für kältere Temperaturen am Anfang des Law Day hier	weather/find	de/test/xsid_audio_de_test_418.wav
-419	Ich möchte in einem Restaurant reservieren für 10 Personen.	BookRestaurant	de/test/xsid_audio_de_test_419.wav
-420	Spiele etwas von Duke Ellington aus den 70ern	PlayMusic	de/test/xsid_audio_de_test_420.wav
-421	Bewerte Cotton Comes to Harlem mit einer 2	RateBook	de/test/xsid_audio_de_test_421.wav
-422	Füge einen Song zu meiner Playliste Madden NFL 16	AddToPlaylist	de/test/xsid_audio_de_test_422.wav
-423	Füge Toyan zu meiner Epic Games Playliste.	AddToPlaylist	de/test/xsid_audio_de_test_423.wav
-424	Spiele ein paar neue Les Vandyke auf Slacker	PlayMusic	de/test/xsid_audio_de_test_424.wav
-425	Bewerte Three Junes mit 1 von 6	RateBook	de/test/xsid_audio_de_test_425.wav
-426	Reserviere für 9 Personen bei einer Bäckerei in Nunez	BookRestaurant	de/test/xsid_audio_de_test_426.wav
-427	Bewerte diesen Roman mit 2 von 6 .	RateBook	de/test/xsid_audio_de_test_427.wav
-428	Spiele The Happy Blues von Ronnie Wood .	PlayMusic	de/test/xsid_audio_de_test_428.wav
-429	Spiele eine Symphonie von 2013 .	PlayMusic	de/test/xsid_audio_de_test_429.wav
-430	Spiele Subconscious Lobotomy von Jennifer Paull .	PlayMusic	de/test/xsid_audio_de_test_430.wav
-431	Gib The Crystal Snare 5 Sterne	RateBook	de/test/xsid_audio_de_test_431.wav
-432	Give diesem Textbuch null Sterne	RateBook	de/test/xsid_audio_de_test_432.wav
-433	Gib der aktuellen Serie 4 Punkte	RateBook	de/test/xsid_audio_de_test_433.wav
-434	Ich möchte eine Tisch im James D. Conrey House in Urbank Kalifornien	BookRestaurant	de/test/xsid_audio_de_test_434.wav
-435	Spielt Barbar: King of the Elephants	SearchScreeningEvent	de/test/xsid_audio_de_test_435.wav
-436	Füge einen Song zu This is racionais mc's	AddToPlaylist	de/test/xsid_audio_de_test_436.wav
-437	Gib diesem Essay null von 6 Sternen	RateBook	de/test/xsid_audio_de_test_437.wav
-438	Lass uns etwas von Andrew Hewitt hören .	PlayMusic	de/test/xsid_audio_de_test_438.wav
-439	Finde animierte Filme in der Nähe	SearchScreeningEvent	de/test/xsid_audio_de_test_439.wav
-440	Gib The current chronicle 5 von 6 Punkten	RateBook	de/test/xsid_audio_de_test_440.wav
-441	Ich brauche einen Tisch für 4 in Saint Helena im Settha Palace Hotel	BookRestaurant	de/test/xsid_audio_de_test_441.wav
-442	Wie wird das Wetter in Virginia am St. Patrick's day sein ?	weather/find	de/test/xsid_audio_de_test_442.wav
-443	Ich brauche das Programm vom Speakseasy Theater	SearchScreeningEvent	de/test/xsid_audio_de_test_443.wav
-444	Suche nach der TV Show Meet the Prince	SearchCreativeWork	de/test/xsid_audio_de_test_444.wav
-445	Bitte besorge mir den Song Compulsive Disclosure .	SearchCreativeWork	de/test/xsid_audio_de_test_445.wav
-446	Spiele Trance Life auf Zvooq .	PlayMusic	de/test/xsid_audio_de_test_446.wav
-447	Bitte suche das Werk Serious Awesomeness !.	SearchCreativeWork	de/test/xsid_audio_de_test_447.wav
-448	Ich möchte I Dream of Jeanie in einem Kino sehen	SearchScreeningEvent	de/test/xsid_audio_de_test_448.wav
-449	Spiele Paul McCartney	PlayMusic	de/test/xsid_audio_de_test_449.wav
-450	Gib diesem Roman 3 Sterne	RateBook	de/test/xsid_audio_de_test_450.wav
-451	Würdest du das Buch Paris - When It Sizzles suchen ?	SearchCreativeWork	de/test/xsid_audio_de_test_451.wav
-452	Spiele etwas von Filipp Kirkorrow aus den 70ern	PlayMusic	de/test/xsid_audio_de_test_452.wav
-453	Ich möchte in einem Bougatsa Restaurant nächstes Jahr in der Nähe von Penn für 3 Personen reservieren.	BookRestaurant	de/test/xsid_audio_de_test_453.wav
-454	Wird es regnerisch in Tenino ?	weather/find	de/test/xsid_audio_de_test_454.wav
-455	Bitte suche nach Three Essays über die Theory of Sexuality Show	SearchCreativeWork	de/test/xsid_audio_de_test_455.wav
-456	Ich möchte in Ramona essen	BookRestaurant	de/test/xsid_audio_de_test_456.wav
-457	Füge den Boy George Song zur Emo Forever Playliste	AddToPlaylist	de/test/xsid_audio_de_test_457.wav
-458	Ich möchte in einem Steakhaus in Vimy Ridge reservieren .	BookRestaurant	de/test/xsid_audio_de_test_458.wav
-459	Läuft Without Witness für 22 Stunden	SearchScreeningEvent	de/test/xsid_audio_de_test_459.wav
-460	Reserviere einen Platz für 9	BookRestaurant	de/test/xsid_audio_de_test_460.wav
-461	Füge diesen Song zu meiner Hands Up Playliste	AddToPlaylist	de/test/xsid_audio_de_test_461.wav
-462	Spiele etwas aus der 90s Pop Rock Essentials	PlayMusic	de/test/xsid_audio_de_test_462.wav
-463	Würdest du mir den Blue Spring Trailer suchen ?	SearchCreativeWork	de/test/xsid_audio_de_test_463.wav
-464	Gib 36 Children 2 von 6 Sternen	RateBook	de/test/xsid_audio_de_test_464.wav
-465	Sag mir animierte Filme im MJR Theatres	SearchScreeningEvent	de/test/xsid_audio_de_test_465.wav
-466	Füge den Künstler Mike zu meiner Sexy as Folk Playliste.	AddToPlaylist	de/test/xsid_audio_de_test_466.wav
-467	Füge Highway Patrolman zu meiner Playliste This is Al Green	AddToPlaylist	de/test/xsid_audio_de_test_467.wav
-468	Suche mir den Roman mit dem Titel To Lose My Life ...	SearchCreativeWork	de/test/xsid_audio_de_test_468.wav
-469	Gib dem Album eine 5	RateBook	de/test/xsid_audio_de_test_469.wav
-470	Spielt Rare Birds im nächstgelegenen Kino zu Mittag .	SearchScreeningEvent	de/test/xsid_audio_de_test_470.wav
-471	Bewerte The 8-Week Cholesterol Cure mit 3 von 6 .	RateBook	de/test/xsid_audio_de_test_471.wav
-472	Füge Martin Barre zu meiner Punk unplugged Playliste.	AddToPlaylist	de/test/xsid_audio_de_test_472.wav
-473	Bewerte diesen Roman mit null von 6	RateBook	de/test/xsid_audio_de_test_473.wav
-474	Zu welchen Zeiten spielt The Young Swordsman in meinem Kino ?	SearchScreeningEvent	de/test/xsid_audio_de_test_474.wav
-475	Was spielt gerade in den Kinos in meiner Umgebung	SearchScreeningEvent	de/test/xsid_audio_de_test_475.wav
-476	Ich möchte im Oregon Electric Station in North City reservieren .	BookRestaurant	de/test/xsid_audio_de_test_476.wav
-477	Wie wird das Wetter hier um 2 Uhr nachmittags	weather/find	de/test/xsid_audio_de_test_477.wav
-478	Suche das Kinoprogramm für The Wanda Group .	SearchScreeningEvent	de/test/xsid_audio_de_test_478.wav
-479	Wie ist die Wettervorhersage für Waurika in Samoa	weather/find	de/test/xsid_audio_de_test_479.wav
-480	Zeige das Kinoprogramm in der Umgebung	SearchScreeningEvent	de/test/xsid_audio_de_test_480.wav
-481	Spiele etwas Blues Britanico .	PlayMusic	de/test/xsid_audio_de_test_481.wav
-482	Spielt No Times to Be Young im AMC Theaters	SearchScreeningEvent	de/test/xsid_audio_de_test_482.wav
-483	Bitte suche Monty Python Live at the Hollywood Bowl .	SearchCreativeWork	de/test/xsid_audio_de_test_483.wav
-484	Was ist die Wettervorhersage hier bezüglich Eissturm um 5 Uhr nachmittags?	weather/find	de/test/xsid_audio_de_test_484.wav
-485	Füge Ireland in the junior eurovision song contest 2015 zu meiner Jazzy Dinner Playliste	AddToPlaylist	de/test/xsid_audio_de_test_485.wav
-486	Füge einen Song zu Indie Hipster	AddToPlaylist	de/test/xsid_audio_de_test_486.wav
-487	Suche die National Anthem of the Ancient Britons TV Show	SearchCreativeWork	de/test/xsid_audio_de_test_487.wav
-488	Zur Travelling Playliste, bitte füge diesen David Gahan Song hinzu .	AddToPlaylist	de/test/xsid_audio_de_test_488.wav
-489	Ich möchte Them vom Künstler Murcof hören	PlayMusic	de/test/xsid_audio_de_test_489.wav
-490	Bewerte The Gift: Imagination and the Erotic Life of Property mit 5 Sternen	RateBook	de/test/xsid_audio_de_test_490.wav
-491	Suche eine TV Show die Baby Blue heisst	SearchCreativeWork	de/test/xsid_audio_de_test_491.wav
-492	Suche nach dem Buch The Girl Who Was Plugged In	SearchCreativeWork	de/test/xsid_audio_de_test_492.wav
-493	Phyllis Ward und Veronica brauchen einen Tisch in einem Restaurant in 152 Tagen	BookRestaurant	de/test/xsid_audio_de_test_493.wav
-494	Reserviere in einem beliebten Restaurant für 5 Personen	BookRestaurant	de/test/xsid_audio_de_test_494.wav
-495	Reserviere für The Dome, Edinburgh in der Nähe von Brooklawn	BookRestaurant	de/test/xsid_audio_de_test_495.wav
-496	Füge dieses Album zu Old School Death Metal	AddToPlaylist	de/test/xsid_audio_de_test_496.wav
-497	Suche nach der TV Serie Jersey Boys	SearchCreativeWork	de/test/xsid_audio_de_test_497.wav
-498	Reserviere für 9 Personen im besten Pub in der Nähe von Tangier in 6 Monaten	BookRestaurant	de/test/xsid_audio_de_test_498.wav
-499	Zeige mir die Filme in den Harkins Theatres .	SearchScreeningEvent	de/test/xsid_audio_de_test_499.wav
-500	Reserviere für eine Gruppe im Their campus in der selben Umgebung für churrascaria	BookRestaurant	de/test/xsid_audio_de_test_500.wav
+ID	Text	Intent	Audio	Text_original
+1	Zeige alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_001.wav	Zeige alle Erinnerungen
+2	Benötige ich einen Pullover?	weather/find	de/test/xsid_audio_de_test_002.wav	Benötige ich einen Pullover?
+3	Eine Erinnerung für heute um 4 Uhr nachmittags hinzufügen	reminder/set_reminder	de/test/xsid_audio_de_test_003.wav	Eine Erinnerung für heute um 4 Uhr nachmittags hinzufügen
+4	lösche meine Erinnerung	reminder/cancel_reminder	de/test/xsid_audio_de_test_004.wav	lösche meine Erinnerung
+5	Erinnere mich Gas zu kaufen.	reminder/set_reminder	de/test/xsid_audio_de_test_005.wav	Erinnere mich Gas zu kaufen.
+6	Benötige ich am Mittwoch einen Regenschirm?	weather/find	de/test/xsid_audio_de_test_006.wav	Benötige ich am Mittwoch einen Regenschirm?
+7	snooze meinen Wecker für fünf Minuten	alarm/snooze_alarm	de/test/xsid_audio_de_test_007.wav	snooze meinen Wecker für fünf Minuten
+8	erstelle eine Geburtstagserinnerung für max	reminder/set_reminder	de/test/xsid_audio_de_test_008.wav	erstelle eine Geburtstagserinnerung für max
+9	Zeig mir alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_009.wav	Zeig mir alle Erinnerungen
+10	Zeige alle Wecker.	alarm/show_alarms	de/test/xsid_audio_de_test_010.wav	Zeige alle Wecker.
+11	Regnet es heute?	weather/find	de/test/xsid_audio_de_test_011.wav	Regnet es heute?
+12	Stelle den Wecker auf 8:00 Uhr ein	alarm/set_alarm	de/test/xsid_audio_de_test_012.wav	Stelle den Wecker auf 8:00 Uhr ein
+13	Wie ist die Temperatur heute?	weather/find	de/test/xsid_audio_de_test_013.wav	Wie ist die Temperatur heute?
+14	Zeige meine Erinnerung	reminder/show_reminders	de/test/xsid_audio_de_test_014.wav	Zeige meine Erinnerung
+15	Alle Wecker anzeigen	alarm/show_alarms	de/test/xsid_audio_de_test_015.wav	Alle Wecker anzeigen
+16	Erinnere mich mit Ben über Georgia zu reden	reminder/set_reminder	de/test/xsid_audio_de_test_016.wav	Erinnere mich mit Ben über Georgia zu reden
+17	Erstelle einen Wecker für 5 Uhr morgens	alarm/set_alarm	de/test/xsid_audio_de_test_017.wav	Erstelle einen Wecker für 5 Uhr morgens
+18	ist es heute bewölkt	weather/find	de/test/xsid_audio_de_test_018.wav	ist es heute bewölkt
+19	Wie viele Millimeter Regen werden wir heute bekommen?	weather/find	de/test/xsid_audio_de_test_019.wav	Wie viele Millimeter Regen werden wir heute bekommen?
+20	Erinnere mich, morgen meine Schwester anzurufen	reminder/set_reminder	de/test/xsid_audio_de_test_020.wav	Erinnere mich, morgen meine Schwester anzurufen
+21	schalte Wecker aus	alarm/cancel_alarm	de/test/xsid_audio_de_test_021.wav	schalte Wecker aus
+22	Wird es diese Woche heiß?	weather/find	de/test/xsid_audio_de_test_022.wav	Wird es diese Woche heiß?
+23	Erstelle einen Wecker für 3 Uhr nachmittags.	alarm/set_alarm	de/test/xsid_audio_de_test_023.wav	Erstelle einen Wecker für 3 Uhr nachmittags.
+24	wird es heute schneien	weather/find	de/test/xsid_audio_de_test_024.wav	wird es heute schneien
+25	entferne alle Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_025.wav	entferne alle Wecker
+26	Zeig mir meine Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_026.wav	Zeig mir meine Erinnerungen
+27	Wie viel Zeit bleibt beim Wecker übrig	alarm/time_left_on_alarm	de/test/xsid_audio_de_test_027.wav	Wie viel Zeit bleibt beim Wecker übrig
+28	Was sind meine Erinnerungen?	reminder/show_reminders	de/test/xsid_audio_de_test_028.wav	Was sind meine Erinnerungen?
+29	Erstelle einen täglichen Wecker für 8 Uhr morgens	alarm/set_alarm	de/test/xsid_audio_de_test_029.wav	Erstelle einen täglichen Wecker für 8 Uhr morgens
+30	kannst du mir die Wecker anzeigen?	alarm/show_alarms	de/test/xsid_audio_de_test_030.wav	kannst du mir die Wecker anzeigen?
+31	Erwartet Disney World heute Stürme?	weather/find	de/test/xsid_audio_de_test_031.wav	Erwartet Disney World heute Stürme?
+32	wird es heute schneien	weather/find	de/test/xsid_audio_de_test_032.wav	wird es heute schneien
+33	zeige alle Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_033.wav	zeige alle Wecker
+34	Ist es heute kalt?	weather/find	de/test/xsid_audio_de_test_034.wav	Ist es heute kalt?
+35	Bitte lösche den Wecker für Donnerstagmorgen.	alarm/cancel_alarm	de/test/xsid_audio_de_test_035.wav	Bitte lösche den Wecker für Donnerstagmorgen.
+36	Regnet es heute?	weather/find	de/test/xsid_audio_de_test_036.wav	Regnet es heute?
+37	schneit es in kanada	weather/find	de/test/xsid_audio_de_test_037.wav	schneit es in kanada
+38	Was wird die Höchsttemperatur heute?	weather/find	de/test/xsid_audio_de_test_038.wav	Was wird die Höchsttemperatur heute?
+39	Wird es heute Nacht genug schneien, um das Reisen gefährlich zu machen?	weather/find	de/test/xsid_audio_de_test_039.wav	Wird es heute Nacht genug schneien, um das Reisen gefährlich zu machen?
+40	Zeige alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_040.wav	Zeige alle Erinnerungen
+41	Lösche alle Erinnerungen	reminder/cancel_reminder	de/test/xsid_audio_de_test_041.wav	Lösche alle Erinnerungen
+42	brauche ich morgen eine Jacke?	weather/find	de/test/xsid_audio_de_test_042.wav	brauche ich morgen eine Jacke?
+43	Wie viel Zeit bleibt beim Wecker übrig	alarm/time_left_on_alarm	de/test/xsid_audio_de_test_043.wav	Wie viel Zeit bleibt beim Wecker übrig
+44	Pausiere den Alarm	alarm/snooze_alarm	de/test/xsid_audio_de_test_044.wav	Pausiere den Alarm
+45	Zeige alle Wecker an	alarm/show_alarms	de/test/xsid_audio_de_test_045.wav	Zeige alle Wecker an
+46	Wie ist das Wetter in Yellowstone?	weather/find	de/test/xsid_audio_de_test_046.wav	Wie ist das Wetter in Yellowstone?
+47	wie ist das Wetter heute?	weather/find	de/test/xsid_audio_de_test_047.wav	wie ist das Wetter heute?
+48	Lösche meine Erinnerung um morgen Patrick von der Schule abzuholen	reminder/cancel_reminder	de/test/xsid_audio_de_test_048.wav	Lösche meine Erinnerung um morgen Patrick von der Schule abzuholen
+49	Erinnere mich morgen zu dieser Zeit einen Arzttermin zu vereinbaren	reminder/set_reminder	de/test/xsid_audio_de_test_049.wav	Erinnere mich morgen zu dieser Zeit einen Arzttermin zu vereinbaren
+50	Erinnere mich, die Miete abzugeben	reminder/set_reminder	de/test/xsid_audio_de_test_050.wav	Erinnere mich, die Miete abzugeben
+51	wann wir es aufhören zu regnen?	weather/find	de/test/xsid_audio_de_test_051.wav	wann wir es aufhören zu regnen?
+52	Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_052.wav	Wecker löschen
+53	Erinnere mich Stephanie am Dienstag anzurufen	reminder/set_reminder	de/test/xsid_audio_de_test_053.wav	Erinnere mich Stephanie am Dienstag anzurufen
+54	zeige mir alle meine Weckzeiten	alarm/show_alarms	de/test/xsid_audio_de_test_054.wav	zeige mir alle meine Weckzeiten
+55	Wie heiß wird es heute?	weather/find	de/test/xsid_audio_de_test_055.wav	Wie heiß wird es heute?
+56	Setze einen Wecker für 17 Uhr heute Abend	alarm/set_alarm	de/test/xsid_audio_de_test_056.wav	Setze einen Wecker für 17 Uhr heute Abend
+57	erinnere mich daran, am 21. August um 15 Uhr zum Arzt zu gehen	reminder/set_reminder	de/test/xsid_audio_de_test_057.wav	erinnere mich daran, am 21. August um 15 Uhr zum Arzt zu gehen
+58	storniere meine wiederholte Erinnerung, täglich um 7 Uhr Medikamente einzunehmen	reminder/cancel_reminder	de/test/xsid_audio_de_test_058.wav	storniere meine wiederholte Erinnerung, täglich um 7 Uhr Medikamente einzunehmen
+59	Wann zeigt die Wettervorhersage den nächsten Regen an?	weather/find	de/test/xsid_audio_de_test_059.wav	Wann zeigt die Wettervorhersage den nächsten Regen an?
+60	Wann ist mein Wecker für morgen früh eingestellt?	alarm/show_alarms	de/test/xsid_audio_de_test_060.wav	Wann ist mein Wecker für morgen früh eingestellt?
+61	wird es heute schneien	weather/find	de/test/xsid_audio_de_test_061.wav	wird es heute schneien
+62	Schalte meinen Wecker aus.	alarm/cancel_alarm	de/test/xsid_audio_de_test_062.wav	Schalte meinen Wecker aus.
+63	Lösche alle Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_063.wav	Lösche alle Wecker
+64	erinnere mich Lebensmittel zu kaufen	reminder/set_reminder	de/test/xsid_audio_de_test_064.wav	erinnere mich Lebensmittel zu kaufen
+65	Ich brauche einen Wecker für 9 Uhr früh Frühstück	alarm/set_alarm	de/test/xsid_audio_de_test_065.wav	Ich brauche einen Wecker für 9 Uhr früh Frühstück
+66	Erstelle eine Erinnerung um the Colts zu schauen eine Stunde bevor das Spiel beginnt	reminder/set_reminder	de/test/xsid_audio_de_test_066.wav	Erstelle eine Erinnerung um the Colts zu schauen eine Stunde bevor das Spiel beginnt
+67	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_067.wav	alle Wecker löschen
+68	Lösche meine dritte Erinnerung von dieser Liste	reminder/cancel_reminder	de/test/xsid_audio_de_test_068.wav	Lösche meine dritte Erinnerung von dieser Liste
+69	setze den Wecker auf 6 Uhr früh	alarm/set_alarm	de/test/xsid_audio_de_test_069.wav	setze den Wecker auf 6 Uhr früh
+70	Setze diesen Wecker zurück und starte um 2 Uhr nachmittags	alarm/cancel_alarm	de/test/xsid_audio_de_test_070.wav	Setze diesen Wecker zurück und starte um 2 Uhr nachmittags
+71	Wird es schneien?	weather/find	de/test/xsid_audio_de_test_071.wav	Wird es schneien?
+72	Erinnere mich, die Miete zu zahlen.	reminder/set_reminder	de/test/xsid_audio_de_test_072.wav	Erinnere mich, die Miete zu zahlen.
+73	was ist das Tief für morgen	weather/find	de/test/xsid_audio_de_test_073.wav	was ist das Tief für morgen
+74	Wird es heute sonnig?	weather/find	de/test/xsid_audio_de_test_074.wav	Wird es heute sonnig?
+75	Wie viele Erinnerungen habe ich heute?	reminder/show_reminders	de/test/xsid_audio_de_test_075.wav	Wie viele Erinnerungen habe ich heute?
+76	Was sind meine Erinnerungen für morgen?	reminder/show_reminders	de/test/xsid_audio_de_test_076.wav	Was sind meine Erinnerungen für morgen?
+77	Lösche alle meine Erinnerungen.	reminder/cancel_reminder	de/test/xsid_audio_de_test_077.wav	Lösche alle meine Erinnerungen.
+78	Erstelle einen Wecker für morgen 6 Uhr morgens	alarm/set_alarm	de/test/xsid_audio_de_test_078.wav	Erstelle einen Wecker für morgen 6 Uhr morgens
+79	Stelle den Wecker für 30 Minuten	alarm/set_alarm	de/test/xsid_audio_de_test_079.wav	Stelle den Wecker für 30 Minuten
+80	Erstelle einen Wecker für jetzt in einer Stunde.	alarm/set_alarm	de/test/xsid_audio_de_test_080.wav	Erstelle einen Wecker für jetzt in einer Stunde.
+81	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_081.wav	alle Wecker löschen
+82	Wetter Update Los Angeles	weather/find	de/test/xsid_audio_de_test_082.wav	Wetter Update Los Angeles
+83	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_083.wav	alle Wecker löschen
+84	Wie viele Erinnerungen habe ich heute?	reminder/show_reminders	de/test/xsid_audio_de_test_084.wav	Wie viele Erinnerungen habe ich heute?
+85	Erinnere mich Küchenpapier im Geschäft morgen zu kaufen	reminder/set_reminder	de/test/xsid_audio_de_test_085.wav	Erinnere mich Küchenpapier im Geschäft morgen zu kaufen
+86	zeige mir alle meine Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_086.wav	zeige mir alle meine Erinnerungen
+87	setze den Wecker auf 6 Uhr früh	alarm/set_alarm	de/test/xsid_audio_de_test_087.wav	setze den Wecker auf 6 Uhr früh
+88	wird es morgen schneien	weather/find	de/test/xsid_audio_de_test_088.wav	wird es morgen schneien
+89	lösche meinen Wecker von morgen früh	alarm/cancel_alarm	de/test/xsid_audio_de_test_089.wav	lösche meinen Wecker von morgen früh
+90	Stelle den Wecker nur auf Montags Mittag ein.	alarm/set_alarm	de/test/xsid_audio_de_test_090.wav	Stelle den Wecker nur auf Montags Mittag ein.
+91	Wie heiß wird es heute?	weather/find	de/test/xsid_audio_de_test_091.wav	Wie heiß wird es heute?
+92	Erinnere mich, den Wecker für den Morgen einzustellen	reminder/set_reminder	de/test/xsid_audio_de_test_092.wav	Erinnere mich, den Wecker für den Morgen einzustellen
+93	entferne alle Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_093.wav	entferne alle Wecker
+94	zeige meine Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_094.wav	zeige meine Wecker
+95	Alarm verwerfen	alarm/cancel_alarm	de/test/xsid_audio_de_test_095.wav	Alarm verwerfen
+96	Wie ist die Temperatur heute?	weather/find	de/test/xsid_audio_de_test_096.wav	Wie ist die Temperatur heute?
+97	Alarm verwerfen	alarm/cancel_alarm	de/test/xsid_audio_de_test_097.wav	Alarm verwerfen
+98	zeige alle Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_098.wav	zeige alle Wecker
+99	Stelle einen Wecker für alle 30 Minuten ein	alarm/set_alarm	de/test/xsid_audio_de_test_099.wav	Stelle einen Wecker für alle 30 Minuten ein
+100	Wie wird die Temperatur heute?	weather/find	de/test/xsid_audio_de_test_100.wav	Wie wird die Temperatur heute?
+101	Wird es heute heiß?	weather/find	de/test/xsid_audio_de_test_101.wav	Wird es heute heiß?
+102	Wird es morgen regnen?	weather/find	de/test/xsid_audio_de_test_102.wav	Wird es morgen regnen?
+103	Lösche den nächsten Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_103.wav	Lösche den nächsten Wecker
+104	Erinnere mich heute zum Supermarkt zu gehen	reminder/set_reminder	de/test/xsid_audio_de_test_104.wav	Erinnere mich heute zum Supermarkt zu gehen
+105	lösche meine Erinnerungen für nächste Woche	reminder/cancel_reminder	de/test/xsid_audio_de_test_105.wav	lösche meine Erinnerungen für nächste Woche
+106	Erinnere mich meinen Hund zu groomer zu bringen am Dienstag um 3 Uhr nachmittags	reminder/set_reminder	de/test/xsid_audio_de_test_106.wav	Erinnere mich meinen Hund zu groomer zu bringen am Dienstag um 3 Uhr nachmittags
+107	Erinnere mich für Jen die Blumen abzuholen für unseren Jahrestag am 28.	reminder/set_reminder	de/test/xsid_audio_de_test_107.wav	Erinnere mich für Jen die Blumen abzuholen für unseren Jahrestag am 28.
+108	wie ist das Wetter heute?	weather/find	de/test/xsid_audio_de_test_108.wav	wie ist das Wetter heute?
+109	Erinnere mich einen Arzttermin morgen zu vereinbaren.	reminder/set_reminder	de/test/xsid_audio_de_test_109.wav	Erinnere mich einen Arzttermin morgen zu vereinbaren.
+110	schalte alle Wecker aus	alarm/cancel_alarm	de/test/xsid_audio_de_test_110.wav	schalte alle Wecker aus
+111	Soll ich einen Regenmantel mitbringen?	weather/find	de/test/xsid_audio_de_test_111.wav	Soll ich einen Regenmantel mitbringen?
+112	Was ist die extreme Wettervorhersage?	weather/find	de/test/xsid_audio_de_test_112.wav	Was ist die extreme Wettervorhersage?
+113	Erinnere mich an den Arzttermin nächste Woche	reminder/set_reminder	de/test/xsid_audio_de_test_113.wav	Erinnere mich an den Arzttermin nächste Woche
+114	Erstelle eine Erinnerung zum Geschäft zu gehen um 8 Uhr morgens	reminder/set_reminder	de/test/xsid_audio_de_test_114.wav	Erstelle eine Erinnerung zum Geschäft zu geben um 8 Uhr morgens
+115	Erstelle Erinnerung, um die Sachen von der chemischen Reinigung abzuholen.	reminder/set_reminder	de/test/xsid_audio_de_test_115.wav	Erstelle Erinnerung, um die Sachen von der chemischen Reinigung abzuholen.
+116	wann wird es abkühlen	weather/find	de/test/xsid_audio_de_test_116.wav	wann wird es abkühlen
+117	wird es diese Woche regnen	weather/find	de/test/xsid_audio_de_test_117.wav	wird es diese Woche regnen
+118	entferne alle Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_118.wav	entferne alle Wecker
+119	Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_119.wav	Wecker löschen
+120	Zeig mir meine Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_120.wav	Zeig mir meine Wecker
+121	Für welche Zeit habe ich den Wecker eingestellt?	alarm/show_alarms	de/test/xsid_audio_de_test_121.wav	Für welche Zeit habe ich den Wecker eingestellt?
+122	Wird es am Samstag regnen?	weather/find	de/test/xsid_audio_de_test_122.wav	Wird es am Samstag regnen?
+123	wie warm wird es heute?	weather/find	de/test/xsid_audio_de_test_123.wav	wie warm wird es heute?
+124	Setze alle Wecker zurück	alarm/cancel_alarm	de/test/xsid_audio_de_test_124.wav	Setze alle Wecker zurück
+125	Wetter in Tahoe dieses Wochenende?	weather/find	de/test/xsid_audio_de_test_125.wav	Wetter in Tahoe dieses Wochenende?
+126	Brauche ich heute einen Mantel?	weather/find	de/test/xsid_audio_de_test_126.wav	Brauche ich heute einen Mantel?
+127	wann wird es aufhören zu regnen?	weather/find	de/test/xsid_audio_de_test_127.wav	wann wir es aufhören zu regnen?
+128	Setze eine Erinnerung meine Schule am Montag um 4 Uhr nachmittags anzurufen	reminder/set_reminder	de/test/xsid_audio_de_test_128.wav	Setze eine Erinnerung meine Schule am Montag um 4 Uhr nachmittags anzurufen
+129	Schalte meinen Wecker aus.	alarm/cancel_alarm	de/test/xsid_audio_de_test_129.wav	Schalte meinen Wecker aus.
+130	Wie kalt wird es heute Nacht?	weather/find	de/test/xsid_audio_de_test_130.wav	Wie kalt wird es heute Nacht?
+131	Stelle den Wecker auf 7:00 Uhr morgen.	alarm/set_alarm	de/test/xsid_audio_de_test_131.wav	Stelle den Wecker auf 7:00 Uhr morgen.
+132	Lösche meine Erinnerung, Rob abzuholen	reminder/cancel_reminder	de/test/xsid_audio_de_test_132.wav	Lösche meine Erinnerung, Rob abzuholen
+133	Erstelle eine Erinnerung für morgen um Milch zu kaufen.	reminder/set_reminder	de/test/xsid_audio_de_test_133.wav	Erstelle eine Erinnerung für morgen um Milch zu kaufen.
+134	setze den Wecker auf 6 Uhr abends	alarm/set_alarm	de/test/xsid_audio_de_test_134.wav	setze den Wecker auf 6 Uhr abends
+135	plane täglich einen Alarm um 7:30 Uhr abends ein, bis er gelöscht wird	alarm/set_alarm	de/test/xsid_audio_de_test_135.wav	plane täglich einen Alarm um 7:30 Uhr abends ein, bis er gelöscht wird
+136	erinnere mich daran, einen Alarm für Ups einzustellen	reminder/set_reminder	de/test/xsid_audio_de_test_136.wav	erinnere mich daran, einen Alarm für Ups einzustellen
+137	lösche meine Erinnerung	reminder/cancel_reminder	de/test/xsid_audio_de_test_137.wav	lösche meine Erinnerung
+138	Wird es heute schneien?	weather/find	de/test/xsid_audio_de_test_138.wav	Wird es heute schneien?
+139	Zeige alle Wecker an	alarm/show_alarms	de/test/xsid_audio_de_test_139.wav	Zeige alle Wecker an
+140	Zeige alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_140.wav	Zeige alle Erinnerungen
+141	wie viel Zeit bleibt auf meinem Wecker	alarm/time_left_on_alarm	de/test/xsid_audio_de_test_141.wav	wie viel Zeit bleibt auf meinem Wecker
+142	Wecker für 2 Stunden stellen	alarm/set_alarm	de/test/xsid_audio_de_test_142.wav	Wecker für 2 Stunden stellen
+143	Erinnere mich, nach der Arbeit Brot zu holen	reminder/set_reminder	de/test/xsid_audio_de_test_143.wav	Erinnere mich, nach der Arbeit Brot zu holen
+144	Wird es heute regnen?	weather/find	de/test/xsid_audio_de_test_144.wav	Wird es heute regnen?
+145	lese die heutige Wettervorhersage	weather/find	de/test/xsid_audio_de_test_145.wav	lese die heutige Wettervorhersage
+146	Für welche Zeit ist mein Wecker gestellt?	alarm/show_alarms	de/test/xsid_audio_de_test_146.wav	Für welche Zeit ist mein Wecker gestellt?
+147	morgen um 4 Uhr, erinnere mich zum Einkaufszentrum zu gehen	reminder/set_reminder	de/test/xsid_audio_de_test_147.wav	morgen um 4 Uhr, erinnere mich zum Einkaufszentrum zu gehen
+148	Sollte ich heute einen Regenschirm mitbringen?	weather/find	de/test/xsid_audio_de_test_148.wav	Sollte ich heute einen Regenschirm mitbringen?
+149	Zeige meine Erinnerung	reminder/show_reminders	de/test/xsid_audio_de_test_149.wav	Zeige meine Erinnerung
+150	Zeige alle meine Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_150.wav	Zeige alle meine Erinnerungen
+151	Erstelle eine Erinnerung für Hundefutter am Montag.	reminder/set_reminder	de/test/xsid_audio_de_test_151.wav	Erstelle eine Erinnerung für Hundefutter am Montag.
+152	Erstelle Erinnerung "Sub yoga class Tuesday night at Bala" für morgen	reminder/set_reminder	de/test/xsid_audio_de_test_152.wav	Erstelle Erinnerung "Sub yoga class Tuesday night at Bala" für morgen
+153	Lösche alle Erinnerungen von heute	reminder/cancel_reminder	de/test/xsid_audio_de_test_153.wav	Lösche alle Erinnerungen von heute
+154	Wie wird das Wetter in New York diese Woche	weather/find	de/test/xsid_audio_de_test_154.wav	Wie wird das Wetter in New York diese Woche
+155	Erinnere mich an eine Doktorvisite am Donnerstag um 12 Uhr mittag	reminder/set_reminder	de/test/xsid_audio_de_test_155.wav	Erinnere mich an eine Doktorvisite am Donnerstag um 12 Uhr mittag
+156	stelle einen Wecker auf 6:50 Uhr abends ein	alarm/set_alarm	de/test/xsid_audio_de_test_156.wav	stelle einen Wecker auf 6:50 Uhr abends ein
+157	Wird es heute schneien?	weather/find	de/test/xsid_audio_de_test_157.wav	Wird es heute schneien?
+158	Welche Wecker sind eingestellt?	alarm/show_alarms	de/test/xsid_audio_de_test_158.wav	Welche Wecker sind eingestellt?
+159	Stelle einen Erinnerungsalarm für den 7. Oktober ein	reminder/set_reminder	de/test/xsid_audio_de_test_159.wav	Stelle einen Erinnerungsalarm für den 7. Oktober ein
+160	Wird es heute schneien?	weather/find	de/test/xsid_audio_de_test_160.wav	Wird es heute schneien?
+161	Schlummeralarm für 15 Minuten	alarm/snooze_alarm	de/test/xsid_audio_de_test_161.wav	Schlummeralarm für 15 Minuten
+162	Wie viel Schnee sagen sie voraus?	weather/find	de/test/xsid_audio_de_test_162.wav	Wie viel Schnee sagen sie voraus?
+163	ist es draußen heiß	weather/find	de/test/xsid_audio_de_test_163.wav	ist es draußen heiß
+164	Wie wird die Temperatur heute?	weather/find	de/test/xsid_audio_de_test_164.wav	Wie wird die Temperatur heute?
+165	wie wird das Wetter morgen in Dallas	weather/find	de/test/xsid_audio_de_test_165.wav	wie wird das Wetter morgen in Dallas
+166	Zeige mir alle meine Erinnerungen von heute	reminder/show_reminders	de/test/xsid_audio_de_test_166.wav	Zeige mir alle meine Erinnerungen von heute
+167	Erstelle eine wöchentliche Erinnerung für Lebensmittel.	reminder/set_reminder	de/test/xsid_audio_de_test_167.wav	Erstelle eine wöchentliche Erinnerung für Lebensmittel.
+168	Wetter	weather/find	de/test/xsid_audio_de_test_168.wav	Wetter
+169	Soll es heute den ganzen Tag über regnen?	weather/find	de/test/xsid_audio_de_test_169.wav	Soll es heute den ganzen Tag über regnen?
+170	wird es morgen regnen	weather/find	de/test/xsid_audio_de_test_170.wav	wird es morgen regnen
+171	Erinnere mich die Arbeitsemails heute Abend zu beantworten	reminder/set_reminder	de/test/xsid_audio_de_test_171.wav	Erinnere mich die Arbeitsemails heute Abend zu beantworten
+172	Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_172.wav	Wecker löschen
+173	Lösche meine Wecker	alarm/cancel_alarm	de/test/xsid_audio_de_test_173.wav	Lösche meine Wecker
+174	Kann ich heute kurze Hosen tragen?	weather/find	de/test/xsid_audio_de_test_174.wav	Kann ich heute kurze Hosen tragen?
+175	Wird es morgen regnen?	weather/find	de/test/xsid_audio_de_test_175.wav	Wird es morgen regnen?
+176	stelle Wecker auf 10 Uhr früh	alarm/set_alarm	de/test/xsid_audio_de_test_176.wav	stelle Wecker auf 10 Uhr früh
+177	Wird es am Wochenende regnen?	weather/find	de/test/xsid_audio_de_test_177.wav	Wird es am Wochenende regnen?
+178	Zeige alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_178.wav	Zeige alle Erinnerungen
+179	Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_179.wav	Wecker löschen
+180	schalte alle Wecker aus	alarm/cancel_alarm	de/test/xsid_audio_de_test_180.wav	schalte alle Wecker aus
+181	zeige alle voreingestellten Wecker an	alarm/show_alarms	de/test/xsid_audio_de_test_181.wav	zeige alle voreingestellten Wecker an
+182	Stelle einen Wecker jede Minute für 20 Minuten.	alarm/set_alarm	de/test/xsid_audio_de_test_182.wav	Stelle einen Wecker jede Minute für 20 Minuten.
+183	Was sind meine Erinnerungen?	reminder/show_reminders	de/test/xsid_audio_de_test_183.wav	Was sind meine Erinnerungen?
+184	lösche den Wecker für morgen	alarm/cancel_alarm	de/test/xsid_audio_de_test_184.wav	lösche den Wecker für morgen
+185	Benötige ich heute einen Regenschirm?	weather/find	de/test/xsid_audio_de_test_185.wav	Benötige ich heute einen Regenschirm?
+186	Soll es heute noch schneien?	weather/find	de/test/xsid_audio_de_test_186.wav	Soll es heute noch schneien?
+187	Erinnere mich meine Mutter heute Abend anzurufen	reminder/set_reminder	de/test/xsid_audio_de_test_187.wav	Erinnere mich meine Mutter heute Abend anzurufen
+188	wird es heute regnen?	weather/find	de/test/xsid_audio_de_test_188.wav	wird es heute regnen?
+189	Wird es am Samstag regnen?	weather/find	de/test/xsid_audio_de_test_189.wav	Wird es am Samstag regnen?
+190	Wirst du den Wecker 20 Minuten lang jede Minute einstellen?	alarm/set_alarm	de/test/xsid_audio_de_test_190.wav	Wirst du den Wecker 20 Minuten lang jede Minute einstellen?
+191	Tropische Stürme in der Karibik	weather/find	de/test/xsid_audio_de_test_191.wav	Tropische Stürme in der Karibik
+192	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_192.wav	alle Wecker löschen
+193	Erstelle einen Wecker für alle neun Minuten	alarm/set_alarm	de/test/xsid_audio_de_test_193.wav	Erstelle einen Wecker für alle neun Minuten
+194	Lösche die letzten zwei Erinnerungen auf meiner Liste	reminder/cancel_reminder	de/test/xsid_audio_de_test_194.wav	Lösche die letzten zwei Erinnerungen auf meiner Liste
+195	wie ist das Wetter heute?	weather/find	de/test/xsid_audio_de_test_195.wav	wie ist das Wetter heute?
+196	schalte meinen Wecker ein	alarm/set_alarm	de/test/xsid_audio_de_test_196.wav	schalte meinen Wecker ein
+197	Was ist die Luftfeuchtigkeit heute?	weather/find	de/test/xsid_audio_de_test_197.wav	Was ist die Luftfeuchtigkeit heute?
+198	erinnere mich daran, einen Alarm für Ups einzustellen	reminder/set_reminder	de/test/xsid_audio_de_test_198.wav	erinnere mich daran, einen Alarm für Ups einzustellen
+199	Wird es schneien dieses Wochenende?	weather/find	de/test/xsid_audio_de_test_199.wav	Wird es schneien dieses Wochenende?
+200	Wie heiß wird es heute?	weather/find	de/test/xsid_audio_de_test_200.wav	Wie heiß wird es heute?
+201	Auf welche Zeit is mein Wecker gestellt	alarm/show_alarms	de/test/xsid_audio_de_test_201.wav	Auf welche Zeit is mein Wecker gestellt
+202	wie ist das Wetter heute?	weather/find	de/test/xsid_audio_de_test_202.wav	wie ist das Wetter heute?
+203	Wird es morgen regnen?	weather/find	de/test/xsid_audio_de_test_203.wav	Wird es morgen regnen?
+204	Lösche meinen Alarm von 5:15 Uhr früh am Dienstag	alarm/cancel_alarm	de/test/xsid_audio_de_test_204.wav	Lösche meinen Alarm von 5:15 Uhr früh am Dienstag
+205	Erinnerung für das Spiel heute Abend löschen	reminder/cancel_reminder	de/test/xsid_audio_de_test_205.wav	Erinnerung für das Spiel heute Abend löschen
+206	Wecker für 3 Uhr morgens stellen	alarm/set_alarm	de/test/xsid_audio_de_test_206.wav	Wecker für 3 Uhr morgens stellen
+207	lösche alle Wecker für Samstag	alarm/cancel_alarm	de/test/xsid_audio_de_test_207.wav	lösche alle Wecker für Samstag
+208	Ich brauche eine Erinnerung um Lisa abzuholen	reminder/set_reminder	de/test/xsid_audio_de_test_208.wav	Ich brauche eine Erinnerung um Lisa abzuholen
+209	Was wird das Hoch heute sein?	weather/find	de/test/xsid_audio_de_test_209.wav	Was wird das Hoch heute sein?
+210	Wird es in Grindstone heute bewölkt?	weather/find	de/test/xsid_audio_de_test_210.wav	Wird es in Grindstone heute bewölkt?
+211	Erinnere mich später	reminder/set_reminder	de/test/xsid_audio_de_test_211.wav	Erinnere mich später
+212	wie ist das Wetter in Frankreich heute	weather/find	de/test/xsid_audio_de_test_212.wav	wie ist das Wetter in Frankreich heute
+213	Wird es für die Party am Samstag sonnig?	weather/find	de/test/xsid_audio_de_test_213.wav	Wird es für die Party am Samstag sonnig?
+214	Wird es morgen regnen?	weather/find	de/test/xsid_audio_de_test_214.wav	Wird es morgen regnen?
+215	Kann ich heute kurze Hosen tragen?	weather/find	de/test/xsid_audio_de_test_215.wav	Kann ich heute kurze Hosen tragen?
+216	Zeige meine Erinnerung	reminder/show_reminders	de/test/xsid_audio_de_test_216.wav	Zeige meine Erinnerung
+217	was is die durchschnittliche Wettervorhersage für September	weather/find	de/test/xsid_audio_de_test_217.wav	was is die durchschnittliche Wettervorhersage für September
+218	Ist es heute kalt?	weather/find	de/test/xsid_audio_de_test_218.wav	Ist es heute kalt?
+219	Lösche alle Erinnerungen	reminder/cancel_reminder	de/test/xsid_audio_de_test_219.wav	Lösche alle Erinnerungen
+220	ist es heiß?	weather/find	de/test/xsid_audio_de_test_220.wav	ist es heiß?
+221	Erstelle einen Wecker für Wochenenden um 14 Uhr am Nachmittag	alarm/set_alarm	de/test/xsid_audio_de_test_221.wav	Erstelle einen Wecker für Wochenenden um 14 Uhr am Nachmittag
+222	Stelle den Wecker auf 2:00 Uhr	alarm/set_alarm	de/test/xsid_audio_de_test_222.wav	Stelle den Wecker auf 2:00 Uhr
+223	Was ist die Luftfeuchtigkeit heute?	weather/find	de/test/xsid_audio_de_test_223.wav	Was ist die Luftfeuchtigkeit heute?
+224	zeige mir alle meine Weckzeiten	alarm/show_alarms	de/test/xsid_audio_de_test_224.wav	zeige mir alle meine Weckzeiten
+225	Zeige mir alle meine Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_225.wav	Zeige mir alle meine Erinnerungen
+226	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_226.wav	alle Wecker löschen
+227	Gibt es eine Sturmwarnung für meinen Standort?	weather/find	de/test/xsid_audio_de_test_227.wav	Gibt es eine Sturmwarnung für meinen Standort?
+228	wie wird das Wetter heute	weather/find	de/test/xsid_audio_de_test_228.wav	wie wird das Wetter heute
+229	Lösche die letzte Erinnerung	reminder/cancel_reminder	de/test/xsid_audio_de_test_229.wav	Lösche die letzte Erinnerung
+230	Was is die verbleibende Zeit bis zum Alarm	alarm/time_left_on_alarm	de/test/xsid_audio_de_test_230.wav	Was is die verbleibende Zeit bis zum Alarm
+231	Lösche alle meine Wecker für Sonntag.	alarm/cancel_alarm	de/test/xsid_audio_de_test_231.wav	Lösche alle meine Wecker für Sonntag.
+232	Wie heiß wird es heute?	weather/find	de/test/xsid_audio_de_test_232.wav	Wie heiß wird es heute?
+233	Ich möchte, dass du für morgen früh um 8:45 Uhr einen neuen Alarm einstellst	alarm/set_alarm	de/test/xsid_audio_de_test_233.wav	Ich möchte, dass du für morgen früh um 8:45 Uhr einen neuen Alarm einstellst
+234	alle Wecker löschen	alarm/cancel_alarm	de/test/xsid_audio_de_test_234.wav	alle Wecker löschen
+235	Wird es heute schneien?	weather/find	de/test/xsid_audio_de_test_235.wav	Wird es heute schneien?
+236	Erinnere mich Eis zu kaufen	reminder/set_reminder	de/test/xsid_audio_de_test_236.wav	Erinnere mich Eis zu kaufen
+237	Zeige alle Erinnerungen	reminder/show_reminders	de/test/xsid_audio_de_test_237.wav	Zeige alle Erinnerungen
+238	zeige alle Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_238.wav	zeige alle Wecker
+239	Wie ist das Wetter in San Francisco?	weather/find	de/test/xsid_audio_de_test_239.wav	Wie ist das Wetter in San Francisco?
+240	Lösche alle Erinnerungen	reminder/cancel_reminder	de/test/xsid_audio_de_test_240.wav	Lösche alle Erinnerungen
+241	Lösche die Erinnerung für das Konzert	reminder/cancel_reminder	de/test/xsid_audio_de_test_241.wav	Lösche die Erinnerung für das Konzert
+242	Lösche den Alarm für morgen früh	alarm/cancel_alarm	de/test/xsid_audio_de_test_242.wav	Lösche den Alarm für morgen früh
+243	wird es diese Woche regnen	weather/find	de/test/xsid_audio_de_test_243.wav	wird es diese Woche regnen
+244	Wie ist das Wetter am Mittwoch zum Golfen?	weather/find	de/test/xsid_audio_de_test_244.wav	Wie ist das Wetter am Mittwoch zum Golfen?
+245	zeige alle Wecker	alarm/show_alarms	de/test/xsid_audio_de_test_245.wav	zeige alle Wecker
+246	Schalte alle Wecker für morgen ab	alarm/cancel_alarm	de/test/xsid_audio_de_test_246.wav	Schalte alle Wecker für morgen ab
+247	Stelle den Wecker auf 5 Uhr heute Abend	alarm/set_alarm	de/test/xsid_audio_de_test_247.wav	Stelle den Wecker auf 5 Uhr heute Abend
+248	setze den Wecker für morgen um 7	alarm/set_alarm	de/test/xsid_audio_de_test_248.wav	setze den Wecker für morgen um 7
+249	Wird morgen die Sonne scheinen?	weather/find	de/test/xsid_audio_de_test_249.wav	Wird morgen die Sonne scheinen?
+250	wie heiß wird es heute	weather/find	de/test/xsid_audio_de_test_250.wav	wie heiß wird es heute
+251	Gib 0 Sterne an Halo: Ghosts of Onyx	RateBook	de/test/xsid_audio_de_test_251.wav	Gib 0 Sterne an Halo: Ghosts of Onyx
+252	Spiele Musik von Joy Nilo .	PlayMusic	de/test/xsid_audio_de_test_252.wav	Spiele Musik von Joy Nilo .
+253	Finde das Videospiel 20 Hours in America .	SearchCreativeWork	de/test/xsid_audio_de_test_253.wav	Finde das Videospiel 20 Hours in America .
+254	Spiele meine inventive-Wiedergabeliste	PlayMusic	de/test/xsid_audio_de_test_254.wav	Spiele meine inventive-Wiedergabeliste
+255	Buche einen Platz für 9 in Thurmont	BookRestaurant	de/test/xsid_audio_de_test_255.wav	Buche einen Platz für 9 in Thurmont
+256	Füge dieses Lied zu Dortys 80er-Party-Playliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_256.wav	Füge dieses Lied zu Dortys 80er-Party-Playliste hinzu
+257	Spiele das neueste Lied auf Last Fm von Eddie Vinson .	PlayMusic	de/test/xsid_audio_de_test_257.wav	Spiele das neueste Lied auf Last Fm von Eddie Vinson .
+258	Kontrolliere die Wettervorhersage für Nebraska .	weather/find	de/test/xsid_audio_de_test_258.wav	Kontrolliere die Wettervorhersage für Nebraska .
+259	Gibt es jetzt einen Sturm in NC ?	weather/find	de/test/xsid_audio_de_test_259.wav	Gibt es jetzt einen Sturm in NC ?
+260	Ich möchte eine EP aus dem Jahr 1998 hören .	PlayMusic	de/test/xsid_audio_de_test_260.wav	Ich möchte eine EP aus dem Jahr 1998 hören .
+261	Ich brauche die Uhrzeit von A Yiddish World Remembered im Dipsomkino	SearchScreeningEvent	de/test/xsid_audio_de_test_261.wav	Ich brauche die Uhrzeit von A Yiddish World Remembered im Dipsomkino
+262	Gib dem aktuellen Lehrbuch 1 aus 6 Punkten	RateBook	de/test/xsid_audio_de_test_262.wav	Gibe dem aktuellen Lehrbuch 1 aus 6 Punkten
+263	Füge das Matt Murphy Lied zur Flow Español-Wiedergabeliste hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_263.wav	Füge das Matt Murphy Lied zur Flow Español-Wiedergabeliste hinzu.
+264	Ich möchte am 20.05.2025 einen Sundanesischen Gastropub in der Nähe von Texas für 3 Personen buchen .	BookRestaurant	de/test/xsid_audio_de_test_264.wav	Ich möchte am 20.05.2025 einen Sundanesischen Gastropub in der Nähe von Texas für 3 Personen buchen .
+265	Findest du die TV-Serie The Approach	SearchCreativeWork	de/test/xsid_audio_de_test_265.wav	Findest du die TV-Serie The Approach
+266	Gib dieser Chronik eine Bewertung von 2.	RateBook	de/test/xsid_audio_de_test_266.wav	Gib dieser Chronik eine Bewertung von 2.
+267	Gib The American Scene 2 von 6 Sternen	RateBook	de/test/xsid_audio_de_test_267.wav	Gib The American Scene 2 von 6 Sternen
+268	Füge emilie autumn zu meiner Nação Reggae-Wiedergabeliste hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_268.wav	Füge emilie autumn zu meiner Nação Reggae-Wiedergabeliste hinzu.
+269	Ich möchte ein jüdisches Restaurant in Gambia buchen .	BookRestaurant	de/test/xsid_audio_de_test_269.wav	Ich möchte ein jüdisches Restaurant in Gambia buchen .
+270	reserviere einen Tisch im Fried chicken Restaurant	BookRestaurant	de/test/xsid_audio_de_test_270.wav	reserviere einen Tisch im Fried chicken Restaurant
+271	Füge das Lied we have a theme meiner House Afterwork-Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_271.wav	Füge das Lied we have a theme meiner House Afterwork-Wiedergabeliste hinzu
+272	Wie wird das Wetter nicht unweit von hier am neunzehnten Oktober 2026?	weather/find	de/test/xsid_audio_de_test_272.wav	Wie wird das Wetter nicht unweit von hier am neunzehnten Oktober 2026?
+273	Wetter in Walden Russland am 12.12.2018	weather/find	de/test/xsid_audio_de_test_273.wav	Wetter in Walden Russland am 12.12.2018
+274	Ich möchte ein Restaurant für mich und meinen Schwiegervater in Buckner in einem Jahr buchen .	BookRestaurant	de/test/xsid_audio_de_test_274.wav	Ich möchte ein Restaurant für mich und meinen Schwiegervater in Buckner in einem Jahr buchen .
+275	Bewerte dieses Buch mit 1	RateBook	de/test/xsid_audio_de_test_275.wav	Bewerte dieses Buch mit 1
+276	füge diesen Artisten zu meiner spotlight on country 2016-Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_276.wav	füge diesen Artisten zu meiner spotlight on country 2016-Wiedergabeliste hinzu
+277	Kannst du das Bil Epic Conditions finden ?	SearchCreativeWork	de/test/xsid_audio_de_test_277.wav	Kannst du das Bil Epic Conditions finden ?
+278	Spiele Rich Sex auf Iheart	PlayMusic	de/test/xsid_audio_de_test_278.wav	Spiele Rich Sex auf Iheart
+279	Spielt Bartok der Bezaubernde um sieben Uhr früh?	SearchScreeningEvent	de/test/xsid_audio_de_test_279.wav	Spielt Bartok der Bezaubernde um sieben Uhr früh?
+280	Spiele etwas auf Zvooq	PlayMusic	de/test/xsid_audio_de_test_280.wav	Spiele etwas auf Zvooq
+281	Lass mich Christ Night Songs hören	PlayMusic	de/test/xsid_audio_de_test_281.wav	Lass mich Christ Night Songs hören
+282	spiele das Album von Jill Sobule	PlayMusic	de/test/xsid_audio_de_test_282.wav	spiele das Album von Jill Sobule
+283	Gib 4 Sterne an The Broken Window	RateBook	de/test/xsid_audio_de_test_283.wav	Gib 4 Sterne an The Broken Window
+284	Wie wird die Vorhersage für 6 Uhr morgens im Tatra-Nationalpark	weather/find	de/test/xsid_audio_de_test_284.wav	Wie wird die Vorhersage für 6 Uhr morgens im Tatra-Nationalpark
+285	Bitte buche einen Tisch in einem Bistro das lorna doone serviert .	BookRestaurant	de/test/xsid_audio_de_test_285.wav	Bitte buche einen Tisch in einem Bistro das lorna doone serviert .
+286	Bewerte die Serie The Mystery of the Tolling Bell mit 4 Sternen .	RateBook	de/test/xsid_audio_de_test_286.wav	Bewerte die Serie The Mystery of the Tolling Bell mit 4 Sternen .
+287	Verwende Groove Shark um Musik abzuspielen	PlayMusic	de/test/xsid_audio_de_test_287.wav	Verwende Groove Shark um Musik abzuspielen
+288	Wann spielt Snowbound im nahesten Kino .	SearchScreeningEvent	de/test/xsid_audio_de_test_288.wav	Wann spielt Snowbound im nahesten Kino .
+289	Bitte öffne Zvooq	PlayMusic	de/test/xsid_audio_de_test_289.wav	Bitte öffne Zvooq
+290	Buche einen Platz für 1 Person im Town of Ramsgate in Merit	BookRestaurant	de/test/xsid_audio_de_test_290.wav	Buche einen Platz für 1 Person im Town of Ramsgate in Merit
+291	Wird I Think I Do um 19 Uhr spielen ?	SearchScreeningEvent	de/test/xsid_audio_de_test_291.wav	Wird I Think I Do um 19 Uhr spielexsn ?
+292	wird Custer-Nationalpark um sieben Uhr abends kühler sein	weather/find	de/test/xsid_audio_de_test_292.wav	wird Custer-Nationalpark um sieben Uhr abends kühler sein
+293	Ich möchte etwas auf Youtube hören	PlayMusic	de/test/xsid_audio_de_test_293.wav	Ich möchte etwas auf Youtube hören
+294	Suche nach dem Spiel Difficult Loves	SearchCreativeWork	de/test/xsid_audio_de_test_294.wav	Suche nach dem Spiel Difficult Loves
+295	Wie ist die Wettervorhersage für den Bothe-Napa Valley State Park um den 20. Februar ?	weather/find	de/test/xsid_audio_de_test_295.wav	Wie ist die Wettervorhersage für den Bothe-Napa Valley State Park um den 20. Februar ?
+296	Zeige mir die Vorstellungszeiten des Films The Great Gildersleeve in der Nähe des Kinos	SearchScreeningEvent	de/test/xsid_audio_de_test_296.wav	Zeige mir die Vorstellungszeiten des Films The Great Gildersleeve in der Nähe des Kinos
+297	Wie ist die Wettervorhersage für Gibsland	weather/find	de/test/xsid_audio_de_test_297.wav	Wie ist die Wettervorhersage für Gibsland
+298	Kann ich die Zeiten für Filme in der Nachbarschaft bekommen	SearchScreeningEvent	de/test/xsid_audio_de_test_298.wav	Kann ich die Zeiten für Filme in der Nachbarschaft bekommen
+299	Bewerte Soul Music mit 0.	RateBook	de/test/xsid_audio_de_test_299.wav	Bewerte Soul Music mit 0.
+300	Reserviere für fünf Personen in einer Tatar Taverne in Sargents	BookRestaurant	de/test/xsid_audio_de_test_300.wav	Reserviere für fünf Personen in einer Tatar Taverne in Sargents
+301	Spiele All Things Must Pass .	PlayMusic	de/test/xsid_audio_de_test_301.wav	Spiele All Things Must Pass .
+302	Wird es in einer Stunde ab jetzt in Südkorea regnen?	weather/find	de/test/xsid_audio_de_test_302.wav	Wird es in einer Stunde ab jetzt in Südkorea regnen?
+303	Buche einen Platz für 4 Personen in Oklahoma im South Street Diner	BookRestaurant	de/test/xsid_audio_de_test_303.wav	Buche einen Platz für 4 Personen in Oklahoma im South Street Diner
+304	Spiele Musik von Netflix .	PlayMusic	de/test/xsid_audio_de_test_304.wav	Spiele Musik von Netflix .
+305	Ich möchte Shattered Image sehen.	SearchScreeningEvent	de/test/xsid_audio_de_test_305.wav	Ich möchte Shattered Image sehen.
+306	Suche nach The Sound of One Hand Clapping	SearchCreativeWork	de/test/xsid_audio_de_test_306.wav	Suche nach The Sound of One Hand Clapping
+307	Suchen nach dem Album Wolves Within	SearchCreativeWork	de/test/xsid_audio_de_test_307.wav	Suchen nach dem Album Wolves Within
+308	spielt We Are Northern Lights in einem Kino	SearchScreeningEvent	de/test/xsid_audio_de_test_308.wav	spielt We Are Northern Lights in einem Kino
+309	Füge our little corner of the world music von den Gilmore girls zu meiner Wiedergabeliste The Funny Thing About Football Is hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_309.wav	Füge our little corner of the world music von den Gilmore girls zu meiner Wiedergabeliste The Funny Thing About Football Is hinzu.
+310	Wie ist die Vorhersage für wärmeres Wetter im Southford Falls State Park	weather/find	de/test/xsid_audio_de_test_310.wav	Wie ist die Vorhersage für wärmeres Wetter im Southford Falls State Park
+311	Bitte reserviere einen Tisch in einer Pizzeria mit Parkplatz in Ghana .	BookRestaurant	de/test/xsid_audio_de_test_311.wav	Bitte reserviere einen Tisch in einer Pizzeria mit Parkplatz in Ghana .
+312	Ich möchte einen Soundtrack aus den siebziger Jahren hören.	PlayMusic	de/test/xsid_audio_de_test_312.wav	Ich möchte einen Soundtrack aus den siebziger Jahren hören.
+313	Wetter in zwei Stunden in Usbekistan	weather/find	de/test/xsid_audio_de_test_313.wav	Wetter in zwei Stunden in Usbekistan
+314	Bitte finde den Film Journal of the British Astronomical Association.	SearchCreativeWork	de/test/xsid_audio_de_test_314.wav	Bitte finde den Film Journal of the British Astronomical Association.
+315	Buche für 8 Personen in Wardville , Kansas	BookRestaurant	de/test/xsid_audio_de_test_315.wav	Buche für 8 Personen in Wardville , Kansas
+316	Wie wird das Wetter weit entfernt von hier ?	weather/find	de/test/xsid_audio_de_test_316.wav	Wie wird das Wetter weit entfernt von hier ?
+317	Das neueste Lied von Richard McNamara zur Just Smile-Wiedergabeliste hinzufügen	AddToPlaylist	de/test/xsid_audio_de_test_317.wav	Fügen das neueste Lied von Richard McNamara zur Just Smile-Wiedergabeliste hinzu
+318	Wie kalt wird es hier in 1 Sekunde sein	weather/find	de/test/xsid_audio_de_test_318.wav	Wie kalt wird es hier in 1 Sekunde sein
+319	Auf der Suche nach einem Gemälde mit dem Titel With You	SearchCreativeWork	de/test/xsid_audio_de_test_319.wav	Auf der Suche nach einem Gemälde mit dem Titel With You
+320	Finde kreative Arbeiten Deadly Weapons	SearchCreativeWork	de/test/xsid_audio_de_test_320.wav	Finde kreative Arbeiten Deadly Weapons
+321	Wie wird das Wetter im November in Brookneal ?	weather/find	de/test/xsid_audio_de_test_321.wav	Wie wird das Wetter im November in Brookneal ?
+322	Buche einen Tisch in der Taverne für Nudeln	BookRestaurant	de/test/xsid_audio_de_test_322.wav	Buche einen Tisch in der Taverne für Nudeln
+323	Was ist die Prognose für Costa Rica	weather/find	de/test/xsid_audio_de_test_323.wav	Was ist die Prognose für Costa Rica
+324	Spielen The Two Gladiators	SearchScreeningEvent	de/test/xsid_audio_de_test_324.wav	Spielen The Two Gladiators
+325	welche Filme spielen in den Star Kinos .	SearchScreeningEvent	de/test/xsid_audio_de_test_325.wav	welche Filme spielen in den Star Kinos .
+326	Kannst du bitte die Harry Hood Saga finden ?	SearchCreativeWork	de/test/xsid_audio_de_test_326.wav	Kannst du bitte die Harry Hood Saga finden ?
+327	Füge dieses Lied meiner Sleepify-Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_327.wav	Füge dieses Lied meiner Sleepify-Wiedergabeliste hinzu
+328	Spielt Any Which Way You Can in 15 Sekunden	SearchScreeningEvent	de/test/xsid_audio_de_test_328.wav	Spielt Any Which Way You Can in 15 Sekunden
+329	Spiele Musik von E-type .	PlayMusic	de/test/xsid_audio_de_test_329.wav	Spiele Musik von E-type .
+330	Gib dem aktuellen Buch einen Stern	RateBook	de/test/xsid_audio_de_test_330.wav	Gib dem aktuellen Buch einen Stern
+331	Spiele Another Passenger von Louis Nelson Delisle .	PlayMusic	de/test/xsid_audio_de_test_331.wav	Spiele Another Passenger von Louis Nelson Delisle .
+332	Wo finde ich die Filmvorstellungspläne	SearchScreeningEvent	de/test/xsid_audio_de_test_332.wav	Wo finde ich die Filmvorstellungspläne
+333	Was ist die Wetterprognose für den 26. September in Emerado Saint Pierre und Miquelon	weather/find	de/test/xsid_audio_de_test_333.wav	Was ist die Wetterprognose für den 26. September in Emerado Saint Pierre und Miquelon
+334	Lass uns in 17 Sekunden in der Nähe von Oakfield bei Ted Peters Famous Smoked Fish essen	BookRestaurant	de/test/xsid_audio_de_test_334.wav	Lass uns in 17 Sekunden in der Nähe von Oakfield bei Ted Peters Famous Smoked Fish essen
+335	Hol mir den Trailer von Good Morning Sunshine	SearchCreativeWork	de/test/xsid_audio_de_test_335.wav	Hol mir den Trailer von Good Morning Sunshine
+336	Ich möchte eine Brasserie für 3 Personen auf den Niederländischen Antillen buchen .	BookRestaurant	de/test/xsid_audio_de_test_336.wav	Ich möchte eine Brasserie für 3 Personen auf den Niederländischen Antillen buchen .
+337	bewerte dieses aktuelle Album mit 0 Sternen	RateBook	de/test/xsid_audio_de_test_337.wav	bewerte dieses aktuelle Album mit 0 Sternen
+338	Buche einen Platz in Monaco für den Yankee Doodle Coffee Shop	BookRestaurant	de/test/xsid_audio_de_test_338.wav	Buche einen Platz in Monaco für den Yankee Doodle Coffee Shop
+339	Füge den Künstler zur Wiedergabeliste der politischen Punks hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_339.wav	Füge den Künstler zur Wiedergabeliste der politischen Punks hinzu.
+340	Wird es in vier Monaten in Suwanee Arkansas kälter	weather/find	de/test/xsid_audio_de_test_340.wav	Wird es in vier Monaten in Suwanee AK kälter
+341	füge Muzika za decu meiner Crash Course-Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_341.wav	füge Muzika za decu meiner Crash Course-Wiedergabeliste hinzu
+342	Kannst du die Molecular Oncology Saga nachschlagen ?	SearchCreativeWork	de/test/xsid_audio_de_test_342.wav	Kannst du die Molecular Oncology Saga nachschlagen ?
+343	Ich möchte ein Restaurant für sechs Personen in Wagstaff Arkansas buchen.	BookRestaurant	de/test/xsid_audio_de_test_343.wav	Ich möchte ein Restaurant für sechs Personen in Wagstaff AK buchen.
+344	Spiele Symphoniemusik von David Lindley .	PlayMusic	de/test/xsid_audio_de_test_344.wav	Spiele Symphoniemusik von David Lindley .
+345	Bitte finde die TV-Serie Now We Are Married .	SearchCreativeWork	de/test/xsid_audio_de_test_345.wav	Bitte finde die TV-Serie Now We Are Married .
+346	I möchte Outcast sehen .	SearchScreeningEvent	de/test/xsid_audio_de_test_346.wav	I möchte Outcast sehen .
+347	füge den aktuellen Song zu meiner Das ist Tschaikowski-Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_347.wav	füge den aktuellen Song zu meiner Das ist Tschaikowski-Wiedergabeliste hinzu
+348	Spiele This is Miles Davis on Lastfm .	PlayMusic	de/test/xsid_audio_de_test_348.wav	Spiele This is Miles Davis on Lastfm .
+349	buche den besten Tisch in Tanzania für 5 Personen für ein Abendessen	BookRestaurant	de/test/xsid_audio_de_test_349.wav	buche den besten Tisch in Tanzania für 5 People für ein Abendessen
+350	Lass uns good Mohammad Male auf Vimeo hören .	PlayMusic	de/test/xsid_audio_de_test_350.wav	Lass uns good Mohammad Male on Vimeo hören .
+351	Setze den Track von Vandemataram Srinivas auf HipHop Hot 50 .	AddToPlaylist	de/test/xsid_audio_de_test_351.wav	Setze den Track von Vandemataram Srinivas auf HipHop Hot 50 .
+352	Hol mir das Lied von Secret South .	SearchCreativeWork	de/test/xsid_audio_de_test_352.wav	Hol mir das Lied von Secret South .
+353	Songs aus den Neunzigern auf Zvooq	PlayMusic	de/test/xsid_audio_de_test_353.wav	Songs aus den Neunzigern auf Zvooq
+354	Was ist die Wetterprognose in Admire in Texas ab siebzehn	weather/find	de/test/xsid_audio_de_test_354.wav	Was ist die Wetterprognose in Admire in TX ab siebzehn
+355	Spiele etwas auf Last Fm	PlayMusic	de/test/xsid_audio_de_test_355.wav	Spiele etwas auf Last Fm
+356	Ich möchte das Porträt einer Dame im nächsten Kino sehen .	SearchScreeningEvent	de/test/xsid_audio_de_test_356.wav	Ich möchte das Porträt einer Dame im nächsten Kino sehen .
+357	Bitte finde Phineas Redux .	SearchCreativeWork	de/test/xsid_audio_de_test_357.wav	Bitte finde Phineas Redux .
+358	Füge die 40-cal Melodie zur Wäschewiedergabeliste hinzu .	AddToPlaylist	de/test/xsid_audio_de_test_358.wav	Füge die 40-cal Melodie zur Wäschewiedergabeliste hinzu .
+359	Öffne iTunes und spiele Ben Burnley Ready To Die	PlayMusic	de/test/xsid_audio_de_test_359.wav	Öffne iTunes und spiele Ben Burnley Ready To Die
+360	Wie wird das Wetter am 5. Dezember am Denkmal von Lihula sein?	weather/find	de/test/xsid_audio_de_test_360.wav	Wie wird das Wetter am 5. Dezember am Denkmal von Lihula sein?
+361	Zeige die Vorstellungszeiten von Sexy Dance 2 im nächsten Kino	SearchScreeningEvent	de/test/xsid_audio_de_test_361.wav	Zeige die Vorstellungszeiten von Sexy Dance 2 im nächsten Kino
+362	Suche nach einem Song mit dem Titel Live at the Kings Center	SearchCreativeWork	de/test/xsid_audio_de_test_362.wav	Suche nach einem Song mit dem Titel Live at the Kings Center
+363	Wie ist das Wetter in Tyonek , New Jersey	weather/find	de/test/xsid_audio_de_test_363.wav	Wie ist das Wetter in Tyonek , New Jersey
+364	Ich möchte das Tupelo Honey Cafe in New Jersey für fünf Personen buchen.	BookRestaurant	de/test/xsid_audio_de_test_364.wav	Ich möchte das Tupelo Honey Cafe in New Jersey für fünf Personen buchen.
+365	Buche einen Platz für meine Nichten und mich in einem Teehaus	BookRestaurant	de/test/xsid_audio_de_test_365.wav	Buche einen Platz für meine Nichten und mich in einem Teehaus
+366	Wird es am 16. Februar in den Niederlanden warm?	weather/find	de/test/xsid_audio_de_test_366.wav	Wird es am 16. Februar in den Niederlanden warm?
+367	Ich möchte Jordan Rudess in die Divertido para niños-Wiedergabeliste aufnehmen.	AddToPlaylist	de/test/xsid_audio_de_test_367.wav	Ich möchte Jordan Rudess in die Divertido para niños-Wiedergabeliste aufnehmen.
+368	Bewerte In the Company of Cheerful Ladies mit Null von 6	RateBook	de/test/xsid_audio_de_test_368.wav	Bewerte In the Company of Cheerful Ladies mit Null von 6
+369	Buche mir eine Reservierung für das beste Bistro	BookRestaurant	de/test/xsid_audio_de_test_369.wav	Buche mir eine Reservierung für das beste Bistro
+370	bewerte das aktuelle Lehrbuch mit 1 von 6 Punkten	RateBook	de/test/xsid_audio_de_test_370.wav	bewerte das aktuelle Lehrbuch mit 1 von 6 Punkten
+371	Wie sind die Filmvorstellungszeiten?	SearchScreeningEvent	de/test/xsid_audio_de_test_371.wav	Wie sind die Filmvorstellungszeiten?
+372	Wie wird das Wetter in Ohio?	weather/find	de/test/xsid_audio_de_test_372.wav	Wie wird das Wetter in Ohio?
+373	Füge diesen Künstler zu Showstopper Being Mary Jane hinzu	AddToPlaylist	de/test/xsid_audio_de_test_373.wav	Füge diesen Künstler zu Showstopper Being Mary Jane hinzu
+374	Buche eine Reservierung für meine Babys und mich	BookRestaurant	de/test/xsid_audio_de_test_374.wav	Buche eine Reservierung für meine Babys und mich
+375	Wie wird das Wetter am 21. August 2035 im Sarygamyş Sanctuary sein?	weather/find	de/test/xsid_audio_de_test_375.wav	Wie wird das Wetter am 21. August 2035 im Sarygamyş Sanctuary sein?
+376	Bewerte Ruth mit fünf von 6 Punkten .	RateBook	de/test/xsid_audio_de_test_376.wav	Bewerte Ruth mit fünf von 6 Punkten .
+377	Erinnerungen an die Anti-Japanische Guerilla-Chronik verdienen null von 6 Punkten für eine Bewertung.	RateBook	de/test/xsid_audio_de_test_377.wav	Erinnerungen an die Anti-Japanische Guerilla-Chronik verdienen null von 6 Punkten für eine Bewertung.
+378	Zeig mir die Filmvorstellungszeiten von Southern Theatres	SearchScreeningEvent	de/test/xsid_audio_de_test_378.wav	Zeig mir die Filmvorstellungszeiten von Southern Theatres
+379	Finde die Filmvorstellungszeiten in der Nähe	SearchScreeningEvent	de/test/xsid_audio_de_test_379.wav	Finde die Filmvorstellungszeiten in der Nähe
+380	Füge dieses Album der spanischen Beat Wiedergabeliste hinzu	AddToPlaylist	de/test/xsid_audio_de_test_380.wav	Füge dieses Album der spanischen Beat Wiedergabeliste hinzu
+381	Buche eine Reservierung für 6 Personen für eine kreolische Taverne in Montenegro	BookRestaurant	de/test/xsid_audio_de_test_381.wav	Buche eine Reservierung für 6 Personen für eine kreolische Taverne in Montenegro
+382	Gib der Catedral-Serie vier Sterne .	RateBook	de/test/xsid_audio_de_test_382.wav	Gib der Catedral-Serie vier Sterne .
+383	Füge The Famous Flower of Serving-Men zu meiner abendlichen akustischen Wiedergabeliste hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_383.wav	Füge The Famous Flower of Serving-Men zu meiner abendlichen akustischen Wiedergabeliste hinzu.
+384	Zeigen Sie mir die Vorstellungszeiten nur für Animationsfilme bei ArcLight Hollywood	SearchScreeningEvent	de/test/xsid_audio_de_test_384.wav	Zeigen Sie mir die Vorstellungszeiten nur für Animationsfilme bei ArcLight Hollywood
+385	Bitte suche nach dem Gemälde mit dem Titel This Is the Night .	SearchCreativeWork	de/test/xsid_audio_de_test_385.wav	Bitte suche nach dem Gemälde mit dem Titel This Is the Night .
+386	Wie hoch wird die Luftfeuchtigkeit am aktuellen Standort um 15:19:29 Uhr sein ?	weather/find	de/test/xsid_audio_de_test_386.wav	Wie hoch wird die Luftfeuchtigkeit am aktuellen Standort um 15:19:29 Uhr sein ?
+387	Ich möchte JLA Adventures: Trapped In Time sehen	SearchScreeningEvent	de/test/xsid_audio_de_test_387.wav	Ich möchte JLA Adventures: Trapped In Time sehen
+388	Füge ein Derek Watkins Lied zu This Is Johnny Cash hinzu	AddToPlaylist	de/test/xsid_audio_de_test_388.wav	Füge ein Derek Watkins Lied zu This Is Johnny Cash hinzu
+389	Finde eine kreative Arbeit namens Fire in the Hole	SearchCreativeWork	de/test/xsid_audio_de_test_389.wav	Finde eine kreative Arbeit namens Fire in the Hole
+390	Buche einen Tisch in der Nähe von Pats College	BookRestaurant	de/test/xsid_audio_de_test_390.wav	Buche einen Tisch in der Nähe von Pats College
+391	Ist Patrick Still Lives in den AMC Theatern zu sehen?	SearchScreeningEvent	de/test/xsid_audio_de_test_391.wav	Ist Patrick Still Lives in den AMC Theatern zu sehen?
+392	Ich möchte einen Joint in einem Spa buchen .	BookRestaurant	de/test/xsid_audio_de_test_392.wav	Ich möchte einen Joint in einem Spa buchen .
+393	Ich brauche irgendwo in Quarryville in 14 Stunden einen Tisch	BookRestaurant	de/test/xsid_audio_de_test_393.wav	Ich brauche irgendwo in Quarryville in 14 Stunden einen Tisch
+394	spiele etwas von Gary Lee Conner	PlayMusic	de/test/xsid_audio_de_test_394.wav	spiele etwas von Gary Lee Conner
+395	zeige das nächste Kino, das Boykott zeigt	SearchScreeningEvent	de/test/xsid_audio_de_test_395.wav	zeige das nächste Kino, das Boykott zeigt
+396	Bitte spiele meine ekstatische Wiedergabeliste.	PlayMusic	de/test/xsid_audio_de_test_396.wav	Bitte spiele meine ekstatische Wiedergabeliste.
+397	Bitte suche nach dem Lied The Mad Magician .	SearchCreativeWork	de/test/xsid_audio_de_test_397.wav	Bitte suche nach dem Lied The Mad Magician .
+398	Überprüfe die Vorstellungszeiten für Bow Tie Cinemas .	SearchScreeningEvent	de/test/xsid_audio_de_test_398.wav	Überprüfe die Vorstellungszeiten für Bow Tie Cinemas .
+399	Buche mir eine Reservierung für eine Gruppe von 3 Personen in einem Pub auf den Nördlichen Marianen	BookRestaurant	de/test/xsid_audio_de_test_399.wav	Buche mir eine Reservierung für eine Gruppe von 3 Personen in einem Pub auf den Nördlichen Marianen
+400	Ich müsste die Werke von Rahim Shah zu meiner Infinite Indie Folk Playliste hinzufügen	AddToPlaylist	de/test/xsid_audio_de_test_400.wav	Ich müsste die Werke von Rahim Shah zu meiner Infinite Indie Folk Playliste hinzufügen
+401	Füge Jerry Callist, Jr zu meiner Te quiero Playliste hinzu.	AddToPlaylist	de/test/xsid_audio_de_test_401.wav	Füge Jerry Callist, Jr zu meiner Te quiero Playliste hinzu.
+402	Wie viel kälter wird es im näheren Umkreis von Utah um ca. 3 Uhr morgens ?	weather/find	de/test/xsid_audio_de_test_402.wav	Wie viel kälter wird es im näheren Umkreis von Utah um ca. 3 Uhr morgens ?
+403	Füge das Album zur Hipster Soul Playliste.	AddToPlaylist	de/test/xsid_audio_de_test_403.wav	Füge das Album zur Hipster Soul Playliste.
+404	Ich möchte in einem Spezialitätenmarkt, der osteuropäisches Essen serviert, in 13 Stunden essen	BookRestaurant	de/test/xsid_audio_de_test_404.wav	Ich möchte in einem Spezialitätenmarkt, der osteuropäisches Essen serviert, in 13 Stunden essen
+405	Spiele einen 60er Soundtrack	PlayMusic	de/test/xsid_audio_de_test_405.wav	Spiele einen 60er Soundtrack
+406	Gib dem Album einen Stern	RateBook	de/test/xsid_audio_de_test_406.wav	Gib dem Album einen Stern
+407	Spiele die besten Songs von Bryan Maclean .	PlayMusic	de/test/xsid_audio_de_test_407.wav	Spiele die besten Songs von Bryan Maclean .
+408	Was is die Wettervorhersage für Nicodemus und Umgebung?	weather/find	de/test/xsid_audio_de_test_408.wav	Was is die Wettervorhersage für Nicodemus und Umgebung?
+409	Ich suche nach einem Spiel das Phinally Phamous heisst	SearchCreativeWork	de/test/xsid_audio_de_test_409.wav	Ich suche nach einem Spiel das Phinally Phamous heisst
+410	Gib Juneteenth eine Bewertung von 2 .	RateBook	de/test/xsid_audio_de_test_410.wav	Gib Juneteenth eine Bewertung von 2 .
+411	Gib Thialto the Marvellous null Sterne	RateBook	de/test/xsid_audio_de_test_411.wav	Gib Thialto the Marvellous null Sterne
+412	Ich möchte Soundtrack Musik von Helena Iren Michaelsen auf Youtube hören	PlayMusic	de/test/xsid_audio_de_test_412.wav	Ich möchte Soundtrack Musik von Helena Iren Michaelsen auf Youtube hören
+413	Bestelle einen Tisch am 20.01.2013 für 5 Personen auf den Marshal Islands	BookRestaurant	de/test/xsid_audio_de_test_413.wav	Bestelle eine Tisch am 20.01.2013 für 5 Personen im MH
+414	Kinoprogramm in der Nähe für animierte Filme	SearchScreeningEvent	de/test/xsid_audio_de_test_414.wav	Kinoprogramm in der Nähe für animierte Filme
+415	Füge Jack White zu meiner Playliste This is Shakira	AddToPlaylist	de/test/xsid_audio_de_test_415.wav	Füge Jack White zu meiner Playliste This is Shakira
+416	Ich möchte in einem Restaurant für 5 Personen in Sri Lanka reservieren	BookRestaurant	de/test/xsid_audio_de_test_416.wav	Ich möchte in einem Restaurant für 5 Personen in Sri Lanka reservieren
+417	Bitte such nach der TV Show Episodi di The Blacklist	SearchCreativeWork	de/test/xsid_audio_de_test_417.wav	Bitte such nach der TV Show Episodi di The Blacklist
+418	Wie ist die Vorhersage für kältere Temperaturen am Anfang des Law Day hier	weather/find	de/test/xsid_audio_de_test_418.wav	Wie ist die Vorhersage für kältere Temperaturen am Anfang des Law Day hier
+419	Ich möchte in einem Restaurant reservieren für 10 Personen.	BookRestaurant	de/test/xsid_audio_de_test_419.wav	Ich möchte in einem Restaurant reservieren für 10 Personen.
+420	Spiele etwas von Duke Ellington aus den 70ern	PlayMusic	de/test/xsid_audio_de_test_420.wav	Spiele etwas von Duke Ellington aus den 70ern
+421	Bewerte Cotton Comes to Harlem mit einer 2	RateBook	de/test/xsid_audio_de_test_421.wav	Bewerte Cotton Comes to Harlem mit einer 2
+422	Füge einen Song zu meiner Playliste Madden NFL 16	AddToPlaylist	de/test/xsid_audio_de_test_422.wav	Füge einen Song zu meiner Playliste Madden NFL 16
+423	Füge Toyan zu meiner Epic Games Playliste.	AddToPlaylist	de/test/xsid_audio_de_test_423.wav	Füge Toyan zu meiner Epic Games Playliste.
+424	Spiele ein paar neue Les Vandyke auf Slacker	PlayMusic	de/test/xsid_audio_de_test_424.wav	Spiele ein paar neue Les Vandyke auf Slacker
+425	Bewerte Three Junes mit 1 von 6	RateBook	de/test/xsid_audio_de_test_425.wav	Bewerte Three Junes mit 1 von 6
+426	Reserviere für 9 Personen bei einer Bäckerei in Nunez	BookRestaurant	de/test/xsid_audio_de_test_426.wav	Reserviere für 9 Personen bei einer Bäckerei in Nunez
+427	Bewerte diesen Roman mit 2 von 6 .	RateBook	de/test/xsid_audio_de_test_427.wav	Bewerte diesen Roman mit 2 von 6 .
+428	Spiele The Happy Blues von Ronnie Wood .	PlayMusic	de/test/xsid_audio_de_test_428.wav	Spiele The Happy Blues von Ronnie Wood .
+429	Spiele eine Symphonie von 2013 .	PlayMusic	de/test/xsid_audio_de_test_429.wav	Spiele eine Symphonie von 2013 .
+430	Spiele Subconscious Lobotomy von Jennifer Paull .	PlayMusic	de/test/xsid_audio_de_test_430.wav	Spiele Subconscious Lobotomy von Jennifer Paull .
+431	Gib The Crystal Snare 5 Sterne	RateBook	de/test/xsid_audio_de_test_431.wav	Gib The Crystal Snare 5 Sterne
+432	Gib diesem Textbuch null Sterne	RateBook	de/test/xsid_audio_de_test_432.wav	Give diesem Textbuch null Sterne
+433	Gib der aktuellen Serie 4 Punkte	RateBook	de/test/xsid_audio_de_test_433.wav	Gib der aktuellen Serie 4 Punkte
+434	Ich möchte einen Tisch im James D. Conrey House in Urbank Kalifornien	BookRestaurant	de/test/xsid_audio_de_test_434.wav	Ich möchte eine Tisch im James D. Conrey House in Urbank Kalifornien
+435	Spielt Barbar: King of the Elephants	SearchScreeningEvent	de/test/xsid_audio_de_test_435.wav	Spielt Barbar: King of the Elephants
+436	Füge einen Song zu This is racionais mc's	AddToPlaylist	de/test/xsid_audio_de_test_436.wav	Füge einen Song zu This is racionais mc's
+437	Gib diesem Essay null von 6 Sternen	RateBook	de/test/xsid_audio_de_test_437.wav	Gib diesem Essay null von 6 Sternen
+438	Lass uns etwas von Andrew Hewitt hören .	PlayMusic	de/test/xsid_audio_de_test_438.wav	Lass uns etwas von Andrew Hewitt hören .
+439	Finde animierte Filme in der Nähe	SearchScreeningEvent	de/test/xsid_audio_de_test_439.wav	Finde animierte Filme in der Nähe
+440	Gib The current chronicle 5 von 6 Punkten	RateBook	de/test/xsid_audio_de_test_440.wav	Gib The current chronicle 5 von 6 Punkten
+441	Ich brauche einen Tisch für 4 in Saint Helena im Settha Palace Hotel	BookRestaurant	de/test/xsid_audio_de_test_441.wav	Ich brauche einen Tisch für 4 in Saint Helena im Settha Palace Hotel
+442	Wie wird das Wetter in Virginia am St. Patrick's day sein ?	weather/find	de/test/xsid_audio_de_test_442.wav	Wie wird das Wetter in Virginia am St. Patrick's day sein ?
+443	Ich brauche das Programm vom Speakseasy Theater	SearchScreeningEvent	de/test/xsid_audio_de_test_443.wav	Ich brauche das Programm vom Speakseasy Theater
+444	Suche nach der TV Show Meet the Prince	SearchCreativeWork	de/test/xsid_audio_de_test_444.wav	Suche nach der TV Show Meet the Prince
+445	Bitte besorge mir den Song Compulsive Disclosure .	SearchCreativeWork	de/test/xsid_audio_de_test_445.wav	Bitte besorge mir den Song Compulsive Disclosure .
+446	Spiele Trance Life auf Zvooq .	PlayMusic	de/test/xsid_audio_de_test_446.wav	Spiele Trance Life auf Zvooq .
+447	Bitte suche das Werk Serious Awesomeness !.	SearchCreativeWork	de/test/xsid_audio_de_test_447.wav	Bitte suche das Werk Serious Awesomeness !.
+448	Ich möchte I Dream of Jeanie in einem Kino sehen	SearchScreeningEvent	de/test/xsid_audio_de_test_448.wav	Ich möchte I Dream of Jeanie in einem Kino sehen
+449	Spiele Paul McCartney	PlayMusic	de/test/xsid_audio_de_test_449.wav	Spiele Paul McCartney
+450	Gib diesem Roman 3 Sterne	RateBook	de/test/xsid_audio_de_test_450.wav	Gib diesem Roman 3 Sterne
+451	Würdest du das Buch Paris - When It Sizzles suchen ?	SearchCreativeWork	de/test/xsid_audio_de_test_451.wav	Würdest du das Buch Paris - When It Sizzles suchen ?
+452	Spiele etwas von Filipp Kirkorrow aus den 70ern	PlayMusic	de/test/xsid_audio_de_test_452.wav	Spiele etwas von Filipp Kirkorrow aus den 70ern
+453	Ich möchte in einem Bougatsa Restaurant nächstes Jahr in der Nähe von Penn für 3 Personen reservieren.	BookRestaurant	de/test/xsid_audio_de_test_453.wav	Ich möchte in einem Bougatsa Restaurant nächstes Jahr in der Nähe von Penn für 3 Personen reservieren.
+454	Wird es regnerisch in Tenino ?	weather/find	de/test/xsid_audio_de_test_454.wav	Wird es regnerisch in Tenino ?
+455	Bitte suche nach Three Essays über die Theory of Sexuality Show	SearchCreativeWork	de/test/xsid_audio_de_test_455.wav	Bitte suche nach Three Essays über die Theory of Sexuality Show
+456	Ich möchte in Ramona essen	BookRestaurant	de/test/xsid_audio_de_test_456.wav	Ich möchte in Ramona essen
+457	Füge den Boy George Song zur Emo Forever Playliste	AddToPlaylist	de/test/xsid_audio_de_test_457.wav	Füge den Boy George Song zur Emo Forever Playliste
+458	Ich möchte in einem Steakhaus in Vimy Ridge reservieren .	BookRestaurant	de/test/xsid_audio_de_test_458.wav	Ich möchte in einem Steakhaus in Vimy Ridge reservieren .
+459	Läuft Without Witness für 22 Stunden	SearchScreeningEvent	de/test/xsid_audio_de_test_459.wav	Läuft Without Witness für 22 Stunden
+460	Reserviere einen Platz für 9	BookRestaurant	de/test/xsid_audio_de_test_460.wav	Reserviere einen Platz für 9
+461	Füge diesen Song zu meiner Hands Up Playliste	AddToPlaylist	de/test/xsid_audio_de_test_461.wav	Füge diesen Song zu meiner Hands Up Playliste
+462	Spiele etwas aus der 90s Pop Rock Essentials	PlayMusic	de/test/xsid_audio_de_test_462.wav	Spiele etwas aus der 90s Pop Rock Essentials
+463	Würdest du mir den Blue Spring Trailer suchen ?	SearchCreativeWork	de/test/xsid_audio_de_test_463.wav	Würdest du mir den Blue Spring Trailer suchen ?
+464	Gib 36 Children 2 von 6 Sternen	RateBook	de/test/xsid_audio_de_test_464.wav	Gib 36 Children 2 von 6 Sternen
+465	Sag mir animierte Filme im MJR Theatres	SearchScreeningEvent	de/test/xsid_audio_de_test_465.wav	Sag mir animierte Filme im MJR Theatres
+466	Füge den Künstler Mike zu meiner Sexy as Folk Playliste.	AddToPlaylist	de/test/xsid_audio_de_test_466.wav	Füge den Künstler Mike zu meiner Sexy as Folk Playliste.
+467	Füge Highway Patrolman zu meiner Playliste This is Al Green	AddToPlaylist	de/test/xsid_audio_de_test_467.wav	Füge Highway Patrolman zu meiner Playliste This is Al Green
+468	Suche mir den Roman mit dem Titel To Lose My Life ...	SearchCreativeWork	de/test/xsid_audio_de_test_468.wav	Suche mir den Roman mit dem Titel To Lose My Life ...
+469	Gib dem Album eine 5	RateBook	de/test/xsid_audio_de_test_469.wav	Gib dem Album eine 5
+470	Spielt Rare Birds im nächstgelegenen Kino zu Mittag .	SearchScreeningEvent	de/test/xsid_audio_de_test_470.wav	Spielt Rare Birds im nächstgelegenen Kino zu Mittag .
+471	Bewerte The 8-Week Cholesterol Cure mit 3 von 6 .	RateBook	de/test/xsid_audio_de_test_471.wav	Bewerte The 8-Week Cholesterol Cure mit 3 von 6 .
+472	Füge Martin Barre zu meiner Punk unplugged Playliste.	AddToPlaylist	de/test/xsid_audio_de_test_472.wav	Füge Martin Barre zu meiner Punk unplugged Playliste.
+473	Bewerte diesen Roman mit null von 6	RateBook	de/test/xsid_audio_de_test_473.wav	Bewerte diesen Roman mit null von 6
+474	Zu welchen Zeiten spielt The Young Swordsman in meinem Kino ?	SearchScreeningEvent	de/test/xsid_audio_de_test_474.wav	Zu welchen Zeiten spielt The Young Swordsman in meinem Kino ?
+475	Was spielt gerade in den Kinos in meiner Umgebung	SearchScreeningEvent	de/test/xsid_audio_de_test_475.wav	Was spielt gerade in den Kinos in meiner Umgebung
+476	Ich möchte im Oregon Electric Station in North City reservieren .	BookRestaurant	de/test/xsid_audio_de_test_476.wav	Ich möchte im Oregon Electric Station in North City reservieren .
+477	Wie wird das Wetter hier um 2 Uhr nachmittags	weather/find	de/test/xsid_audio_de_test_477.wav	Wie wird das Wetter hier um 2 Uhr nachmittags
+478	Suche das Kinoprogramm für The Wanda Group .	SearchScreeningEvent	de/test/xsid_audio_de_test_478.wav	Suche das Kinoprogramm für The Wanda Group .
+479	Wie ist die Wettervorhersage für Waurika in Samoa	weather/find	de/test/xsid_audio_de_test_479.wav	Wie ist die Wettervorhersage für Waurika in Samoa
+480	Zeige das Kinoprogramm in der Umgebung	SearchScreeningEvent	de/test/xsid_audio_de_test_480.wav	Zeige das Kinoprogramm in der Umgebung
+481	Spiele etwas Blues Britanico .	PlayMusic	de/test/xsid_audio_de_test_481.wav	Spiele etwas Blues Britanico .
+482	Spielt No Times to Be Young im AMC Theaters	SearchScreeningEvent	de/test/xsid_audio_de_test_482.wav	Spielt No Times to Be Young im AMC Theaters
+483	Bitte suche Monty Python Live at the Hollywood Bowl .	SearchCreativeWork	de/test/xsid_audio_de_test_483.wav	Bitte suche Monty Python Live at the Hollywood Bowl .
+484	Was ist die Wettervorhersage hier bezüglich Eissturm um 5 Uhr nachmittags?	weather/find	de/test/xsid_audio_de_test_484.wav	Was ist die Wettervorhersage hier bezüglich Eissturm um 5 Uhr nachmittags?
+485	Füge Ireland in the junior eurovision song contest 2015 zu meiner Jazzy Dinner Playliste	AddToPlaylist	de/test/xsid_audio_de_test_485.wav	Füge Ireland in the junior eurovision song contest 2015 zu meiner Jazzy Dinner Playliste
+486	Füge einen Song zu Indie Hipster	AddToPlaylist	de/test/xsid_audio_de_test_486.wav	Füge einen Song zu Indie Hipster
+487	Suche die National Anthem of the Ancient Britons TV Show	SearchCreativeWork	de/test/xsid_audio_de_test_487.wav	Suche die National Anthem of the Ancient Britons TV Show
+488	Zur Travelling Playliste, bitte füge diesen David Gahan Song hinzu .	AddToPlaylist	de/test/xsid_audio_de_test_488.wav	Zur Travelling Playliste, bitte füge diesen David Gahan Song hinzu .
+489	Ich möchte Them vom Künstler Murcof hören	PlayMusic	de/test/xsid_audio_de_test_489.wav	Ich möchte Them vom Künstler Murcof hören
+490	Bewerte The Gift: Imagination and the Erotic Life of Property mit 5 Sternen	RateBook	de/test/xsid_audio_de_test_490.wav	Bewerte The Gift: Imagination and the Erotic Life of Property mit 5 Sternen
+491	Suche eine TV Show die Baby Blue heisst	SearchCreativeWork	de/test/xsid_audio_de_test_491.wav	Suche eine TV Show die Baby Blue heisst
+492	Suche nach dem Buch The Girl Who Was Plugged In	SearchCreativeWork	de/test/xsid_audio_de_test_492.wav	Suche nach dem Buch The Girl Who Was Plugged In
+493	Phyllis Ward und Veronica brauchen einen Tisch in einem Restaurant in 152 Tagen	BookRestaurant	de/test/xsid_audio_de_test_493.wav	Phyllis Ward und Veronica brauchen einen Tisch in einem Restaurant in 152 Tagen
+494	Reserviere in einem beliebten Restaurant für 5 Personen	BookRestaurant	de/test/xsid_audio_de_test_494.wav	Reserviere in einem beliebten Restaurant für 5 Personen
+495	Reserviere für The Dome, Edinburgh in der Nähe von Brooklawn	BookRestaurant	de/test/xsid_audio_de_test_495.wav	Reserviere für The Dome, Edinburgh in der Nähe von Brooklawn
+496	Füge dieses Album zu Old School Death Metal	AddToPlaylist	de/test/xsid_audio_de_test_496.wav	Füge dieses Album zu Old School Death Metal
+497	Suche nach der TV Serie Jersey Boys	SearchCreativeWork	de/test/xsid_audio_de_test_497.wav	Suche nach der TV Serie Jersey Boys
+498	Reserviere für 9 Personen im besten Pub in der Nähe von Tangier in 6 Monaten	BookRestaurant	de/test/xsid_audio_de_test_498.wav	Reserviere für 9 Personen im besten Pub in der Nähe von Tangier in 6 Monaten
+499	Zeige mir die Filme in den Harkins Theatres .	SearchScreeningEvent	de/test/xsid_audio_de_test_499.wav	Zeige mir die Filme in den Harkins Theatres .
+500	Reserviere für eine Gruppe im Their campus in der selben Umgebung für churrascaria	BookRestaurant	de/test/xsid_audio_de_test_500.wav	Reserviere für eine Gruppe im Their campus in der selben Umgebung für churrascaria
